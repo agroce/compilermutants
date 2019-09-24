@@ -1,0 +1,2 @@
+tryItOut("__proto__=__parent__")
+tryItOut("switch(window=true){}new Error(window.__noSuchMethod__=true.__parent__)")

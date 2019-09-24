@@ -1,0 +1,1 @@
+tryItOut("switch((function(){}[81])){case(new({}).__lookupGetter__(0)):case<y></y>.__lookupSetter__(\"\")._:}")

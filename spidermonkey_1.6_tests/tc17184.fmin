@@ -1,0 +1,2 @@
+tryItOut("if(__count__)if(undefined>>=true)c")
+tryItOut("with({p:<x></x>})return[,]")

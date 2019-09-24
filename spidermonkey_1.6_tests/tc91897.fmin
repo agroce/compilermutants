@@ -1,0 +1,3 @@
+tryItOut("window=constructor")
+tryItOut("__defineSetter__(\"\",/a/)")
+tryItOut("with({p:window})return this")

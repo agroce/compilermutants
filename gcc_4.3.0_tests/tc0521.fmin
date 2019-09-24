@@ -1,0 +1,19 @@
+int printf (const char *, ...);
+int a, b;
+short c;
+int
+fn1 ()
+{
+    a || b && 0 % 0;
+    return 7L;
+}
+
+int
+main ()
+{
+    short *d = &c;
+    *d = fn1 () <= (&c == d);
+    short **e = &d;
+    printf ("%d\n", c);
+    return 0;
+}

@@ -1,0 +1,2 @@
+tryItOut("window>>=[]")
+tryItOut("p={},(p.z=window?o:3)()")

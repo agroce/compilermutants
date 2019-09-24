@@ -1,0 +1,1 @@
+tryItOut("switch(undefined>>=/x/){}with({_:/x/})return[1,,]")

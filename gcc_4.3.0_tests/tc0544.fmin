@@ -1,0 +1,26 @@
+int printf (const char *, ...);
+struct S0
+{
+    int f0;
+    int f1;
+    int f2:1;
+    int f3:1;
+};
+static volatile struct S0 a = { 1 };
+
+static int b = 1;
+void
+fn1 ()
+{
+    b = 0;
+    a.f3 = 0;
+}
+
+int
+main ()
+{
+    fn1 ();
+    printf ("%d\n", a.f2);
+    printf ("%d\n", b);
+    return 0;
+}

@@ -1,0 +1,5 @@
+tryItOut("prototype=constructor")
+tryItOut("r=prototype")
+tryItOut("if(p=[])prop=__count__")
+tryItOut("undefined=prop")
+tryItOut("return[,,]")

@@ -1,0 +1,3 @@
+tryItOut("constructor=arguments,prototype=constructor")
+tryItOut("constructor.r getter=/a/")
+tryItOut("return prototype")

@@ -1,0 +1,2 @@
+tryItOut("__defineSetter__(\"\",/a/)")
+tryItOut("try{return this}catch(__proto__){(this)}")

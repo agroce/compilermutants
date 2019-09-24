@@ -1,0 +1,3 @@
+tryItOut("__iterator__%=<x></x>")
+tryItOut("if(__defineSetter__(\"\",/a/))n")
+tryItOut("return(__iterator__.__parent__)")

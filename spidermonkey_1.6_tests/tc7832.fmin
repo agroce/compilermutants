@@ -1,0 +1,2 @@
+tryItOut("undefined={__proto__:<y></y>}")
+tryItOut("return[,,]")

@@ -1,0 +1,28 @@
+int printf (const char *, ...);
+int a;
+static char b, c;
+char *d = &c;
+static char
+fn1 (p1)
+{
+    return a ? p1 : 1;
+}
+
+void
+fn2 (char p1)
+{
+    char *e = &b;
+    *e = fn1 (p1);
+    b = 0;
+    for (; b <= 0; b = b - 1)
+        if (p1)
+            *d = 1;
+}
+
+int
+main ()
+{
+    fn2 (0);
+    printf ("%d\n", c);
+    return 0;
+}

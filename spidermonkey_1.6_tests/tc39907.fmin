@@ -1,0 +1,2 @@
+tryItOut("undefined=constructor")
+tryItOut("return[1,,]")

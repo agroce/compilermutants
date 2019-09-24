@@ -1,0 +1,2 @@
+tryItOut("if(this)if(__defineSetter__(\"\",/a/)?<x/>:p)c")
+tryItOut("gc();return this")

@@ -1,0 +1,2 @@
+tryItOut("with(undefined=this)with(prototype=function(){})n")
+tryItOut("__proto__=prototype;return[,]")

@@ -1,0 +1,2 @@
+tryItOut("while(__defineGetter__(\"\",/a/))t")
+tryItOut("try{r}catch(t){return this}")

@@ -1,0 +1,3 @@
+tryItOut("if(__iterator__=arguments)__proto__=__iterator__")
+tryItOut("if(__iterator__._ setter=/a/)g")
+tryItOut("return __proto__")

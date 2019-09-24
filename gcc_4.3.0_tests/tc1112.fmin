@@ -1,0 +1,14 @@
+int printf (const char *, ...);
+int a, b;
+int *c = &b, *f = &a;
+static int *const *d = &c;
+static int *const **const e = &d;
+int
+main ()
+{
+    c = f;
+    ***e = 1;
+    c = 0;
+    printf ("%d\n", a);
+    return 0;
+}

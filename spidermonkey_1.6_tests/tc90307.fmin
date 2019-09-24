@@ -1,0 +1,2 @@
+tryItOut("if(__proto__=__parent__)l")
+tryItOut("if([])Error(this)")

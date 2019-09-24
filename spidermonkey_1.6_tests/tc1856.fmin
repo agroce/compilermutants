@@ -1,0 +1,2 @@
+tryItOut("__defineSetter__(\"\",/a/)")
+tryItOut("(this);return this")

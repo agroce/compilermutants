@@ -1,0 +1,2 @@
+tryItOut("p getter=/a/;<y></y>")
+tryItOut("return this")

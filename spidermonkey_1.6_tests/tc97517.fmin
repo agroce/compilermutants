@@ -1,0 +1,2 @@
+tryItOut("undefined|=hasOwnProperty")
+tryItOut("return[,]")

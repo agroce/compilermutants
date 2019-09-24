@@ -1,0 +1,2 @@
+tryItOut("if(undefined%=__parent__)<x></x>")
+tryItOut("return[,]")

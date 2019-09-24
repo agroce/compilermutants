@@ -1,0 +1,4 @@
+tryItOut("if(<x></x>)if(prop=#1=[#1#])__proto__=prop")
+tryItOut("prototype=\"\"")
+tryItOut("prop=prototype")
+tryItOut("return this")

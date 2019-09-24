@@ -1,0 +1,2 @@
+tryItOut("switch(undefined=<x/>){default:<y></y>}")
+tryItOut("return[1,,]")

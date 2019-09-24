@@ -1,0 +1,1 @@
+tryItOut("switch(true){case undefined++:}with({_:<x></x>})return[1,,]")

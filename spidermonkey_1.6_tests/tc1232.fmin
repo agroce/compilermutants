@@ -1,0 +1,2 @@
+tryItOut("const _;__proto__=#1=[#1#]")
+tryItOut("switch(uneval(this)){case 8:}")

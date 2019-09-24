@@ -1,0 +1,2 @@
+tryItOut("switch(undefined=<bbb xmlns:ccc=\"function(id) { return id }\"><ccc:eee></ccc:eee></bbb>){}")
+tryItOut("return[1,,]")

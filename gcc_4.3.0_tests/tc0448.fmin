@@ -1,0 +1,54 @@
+int printf (const char *, ...);
+char a, j, t;
+int b, c, e, g, i, m, q, u, v, w, t1, t2, t7;
+int *d = &c, *k, *o, *r = &c, *s = &e, *z;
+static int *f = &e;
+short h, l, n;
+char *p = &j, *x;
+short *y = &n, *t5 = &h, *t6 = &l;
+int ***t4;
+void fn1 ();
+char fn2 ();
+void
+fn3 ()
+{
+    t1 = fn2 (1);
+    t2 = a && b && a && a ? a : a * b;
+    if ((t2 && u == t) & 2UL)
+    {
+        fn1 ();
+        v = 0;
+        w = 0;
+        for (;; i--)
+            *p = *x &= 1;
+    }
+    {
+        int t3 = 0;
+        *s = *d = *f;
+        g = *y = m = t3;
+        fn2 (0);
+        *f = 0;
+        if (*r)
+        {
+            *z |= o != &t3;
+            for (;; q++);
+        }
+    }
+}
+
+char
+fn2 (p1)
+{
+    k = &p1;
+    0 == (t4 = 0) | (*t6 = *t5 |= 0);
+    *f &= 1;
+    return t7;
+}
+
+int
+main ()
+{
+    fn3 ();
+    printf ("%d\n", m);
+    return 0;
+}

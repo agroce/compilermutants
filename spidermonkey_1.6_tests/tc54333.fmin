@@ -1,0 +1,2 @@
+tryItOut("with({e:__defineSetter__})with(this.__defineSetter__(\"\",/a/))<x></x>")
+tryItOut("return this")

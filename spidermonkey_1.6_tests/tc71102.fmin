@@ -1,0 +1,2 @@
+tryItOut("if([])__iterator__=false,undefined=__iterator__")
+tryItOut("return[,]")

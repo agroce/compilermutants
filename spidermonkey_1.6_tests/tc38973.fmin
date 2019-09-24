@@ -1,0 +1,2 @@
+tryItOut("if(__defineGetter__(\"\",/a/))c")
+tryItOut("with({p:Function})return this")

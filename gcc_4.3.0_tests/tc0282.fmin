@@ -1,0 +1,79 @@
+int printf (const char *, ...);
+int a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y,
+    z, t1, t2, t3, t4, t5, t6;
+int fn1 ();
+void fn2 ();
+int
+fn3 ()
+{
+    return h || g == 0 ? 0 : 0 % 0;
+}
+
+int fn5 ();
+static const int
+fn4 (char p1)
+{
+    for (; l;)
+    {
+        r = fn5 ();
+        m ? 0 : 0 / 0;
+        o = 1;
+        c < d ? 0 : d;
+        for (; o <= 0;)
+            for (;;)
+            {
+                z = fn1 ();
+                fn1 ();
+                t1 = fn1 ();
+                fn5 ();
+                b && 0 / 0;
+                e || f ? 0 : 0 % 0;
+                w = i;
+                s = fn1 () ^ t >= u;
+            }
+    }
+    q = 0;
+    v = 0 ? 0 : 0;
+    y = q;
+    t2 = y;
+    if (t2 <= p1)
+        x = 0;
+    fn3 ();
+    return 0;
+}
+
+int
+fn5 ()
+{
+    fn3 ();
+    return t6;
+}
+
+int
+main ()
+{
+    int t7;
+    k = 0;
+    h || g ? 0 : 0 % 0;
+    p = 0;
+    t7 = j ? j : 1;
+    fn4 (t7 > 0);
+    fn3 ();
+    fn3 ();
+    t5 = 1;
+    if (t5);
+    else
+    {
+        for (; t3;);
+        for (; a;)
+        {
+            fn3 ();
+            n = fn1 ();
+            fn2 ();
+            t4 && fn1 ();
+        }
+    }
+    fn3 ();
+    printf ("%d\n", j);
+    return 0;
+}

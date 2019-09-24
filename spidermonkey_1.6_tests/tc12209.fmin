@@ -1,0 +1,1 @@
+tryItOut("if(undefined=new String(/x/))return[,,]")

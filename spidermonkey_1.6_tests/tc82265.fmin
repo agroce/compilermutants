@@ -1,0 +1,5 @@
+tryItOut("p={}")
+tryItOut("c=''")
+tryItOut("switch(e=undefined){}r=_=__=__proto__")
+tryItOut("undefined=__count__")
+tryItOut("return[1,,]")

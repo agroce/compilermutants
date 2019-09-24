@@ -1,0 +1,3 @@
+tryItOut("constructor=this;<x></x>")
+tryItOut("__proto__=__parent__")
+tryItOut("do{gc()}while(new Error(constructor))")

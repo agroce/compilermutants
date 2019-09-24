@@ -1,0 +1,1 @@
+tryItOut("__proto__={__proto__:[this]};return __proto__")

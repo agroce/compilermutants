@@ -1,0 +1,4 @@
+tryItOut("prototype=<y>></y>")
+tryItOut("prototype.watch(\"\",Function)")
+tryItOut("return this")
+tryItOut("prototype=__count__;gc()")

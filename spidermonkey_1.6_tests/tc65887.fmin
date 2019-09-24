@@ -1,0 +1,2 @@
+tryItOut("with({})undefined=__count__")
+tryItOut("return[1,,]")

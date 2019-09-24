@@ -1,0 +1,4 @@
+tryItOut("with(this)__noSuchMethod__=#1=[#1#]")
+tryItOut("__proto__=__noSuchMethod__")
+tryItOut("__noSuchMethod__=__count__")
+tryItOut("with([])return this")

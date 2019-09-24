@@ -1,0 +1,2 @@
+tryItOut("if(undefined%=function(){})i")
+tryItOut("return[,,]")

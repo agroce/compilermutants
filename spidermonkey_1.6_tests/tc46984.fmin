@@ -1,0 +1,2 @@
+tryItOut("switch(undefined=true){}while(undefined--&0){}--undefined")
+tryItOut("return[1,,]")

@@ -1,0 +1,2 @@
+tryItOut("switch(undefined--){}")
+tryItOut("L:{return[,];([1,,])}")

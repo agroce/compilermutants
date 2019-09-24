@@ -1,0 +1,2 @@
+tryItOut("__defineSetter__(\"window\",eval)")
+tryItOut("switch(window){default:while(0){}case 6:case((.1.*)._(\"\",([z]).h)):}")

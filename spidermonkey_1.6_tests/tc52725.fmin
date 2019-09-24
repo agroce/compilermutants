@@ -1,0 +1,1 @@
+tryItOut("switch(undefined%=<y></y>){}return[,]")

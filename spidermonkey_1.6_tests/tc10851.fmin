@@ -1,0 +1,1 @@
+tryItOut("undefined++;with(/x/)return[1,,]")

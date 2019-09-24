@@ -1,0 +1,1 @@
+tryItOut("switch(<x></x>){case(undefined>>=<x></x>):}with({p:<x/>})return[1,,]")

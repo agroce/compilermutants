@@ -1,0 +1,4 @@
+tryItOut("while(__count__=[])p")
+tryItOut("if(__defineSetter__(\"__count__\",function(){}))1")
+tryItOut("__iterator__=null")
+tryItOut("switch(<y></y>.watch(\"\",Function)){case 3:case __count__.p=__iterator__:}")

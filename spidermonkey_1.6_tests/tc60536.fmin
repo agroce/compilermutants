@@ -1,0 +1,2 @@
+tryItOut("while(undefined&=/x/)o")
+tryItOut("return[1,,]")

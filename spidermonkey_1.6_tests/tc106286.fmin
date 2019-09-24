@@ -1,0 +1,3 @@
+tryItOut("if(undefined%=constructor)i")
+tryItOut("prop=[,,];")
+tryItOut("return prop")

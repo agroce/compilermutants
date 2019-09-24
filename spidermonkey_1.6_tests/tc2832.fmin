@@ -1,0 +1,2 @@
+tryItOut("__proto__=#1=[#1#]")
+tryItOut("with({e:gc()})return __parent__")

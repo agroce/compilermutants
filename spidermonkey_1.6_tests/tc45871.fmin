@@ -1,0 +1,3 @@
+tryItOut("if(<y></y>)if(prototype=\"\")p")
+tryItOut("undefined=prototype")
+tryItOut("return[1,,]")

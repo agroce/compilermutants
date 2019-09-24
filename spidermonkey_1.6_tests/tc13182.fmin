@@ -1,0 +1,2 @@
+tryItOut("r getter=/a/")
+tryItOut("return this")

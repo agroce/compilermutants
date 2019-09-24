@@ -1,0 +1,1 @@
+tryItOut("try{r}catch(e if function(){with({})gc()}()){}catch(__proto__ if function(){with({})gc()}()){}")

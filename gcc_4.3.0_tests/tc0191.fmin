@@ -1,0 +1,33 @@
+int printf (const char *, ...);
+int a, b, d, e = 1, f, g;
+unsigned c;
+void fn1 ();
+int
+fn2 ()
+{
+    for (;;)
+    {
+        d = 0;
+        for (; d; d++)
+            fn1 ();
+    }
+}
+
+int
+main ()
+{
+    for (; a >= 0; --a)
+    {
+        b = 1 | c++;
+        if (b)
+        {
+            b = 1;
+            b || fn2 ();
+            g = e;
+        }
+        else
+            f = 0;
+    }
+    printf ("%d\n", g);
+    return 0;
+}

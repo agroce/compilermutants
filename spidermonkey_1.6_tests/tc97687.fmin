@@ -1,0 +1,2 @@
+tryItOut("with(__proto__=null)c")
+tryItOut("Error(this)")

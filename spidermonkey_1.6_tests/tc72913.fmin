@@ -1,0 +1,1 @@
+tryItOut("try{*::*}catch(__parent__ if(function(){gc()})()){}")

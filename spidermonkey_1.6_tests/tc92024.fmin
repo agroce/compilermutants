@@ -1,0 +1,2 @@
+tryItOut("__iterator__=[]")
+tryItOut("p={},(p.z=__iterator__?<y></y>:'')()")

@@ -1,0 +1,2 @@
+tryItOut("undefined^={}")
+tryItOut("return[__defineSetter__(\"\",[].map)]")

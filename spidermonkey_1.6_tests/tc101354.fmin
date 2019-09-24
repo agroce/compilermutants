@@ -1,0 +1,2 @@
+tryItOut("__proto__=__parent__")
+tryItOut("M:if((Error(this)))(true);else if(@foo<=null){return;return}")

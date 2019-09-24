@@ -1,0 +1,3 @@
+tryItOut("if(__defineGetter__(\"__iterator__\",{}.hasOwnProperty))c")
+tryItOut("undefined=__iterator__")
+tryItOut("return[,,]")

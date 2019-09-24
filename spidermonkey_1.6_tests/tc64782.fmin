@@ -1,0 +1,2 @@
+tryItOut("switch(__defineGetter__(\"prototype\",gc)){}if(undefined<<=prototype)i")
+tryItOut("return[1,,]")

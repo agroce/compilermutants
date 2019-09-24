@@ -1,0 +1,3 @@
+tryItOut("__iterator__=<y></y>.__parent__;undefined=__iterator__")
+tryItOut("if(__iterator__.c=<x/>)<x/>")
+tryItOut("return[,]")

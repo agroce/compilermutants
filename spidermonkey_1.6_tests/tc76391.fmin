@@ -1,0 +1,3 @@
+tryItOut("do __noSuchMethod__=#1=[#1#];while(0)__proto__=__noSuchMethod__")
+tryItOut("__noSuchMethod__=pop")
+tryItOut("return this")

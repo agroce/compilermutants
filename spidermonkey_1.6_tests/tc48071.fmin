@@ -1,0 +1,3 @@
+tryItOut("__proto__=__parent__")
+tryItOut("undefined=<x><y/></x>;<x></x>,constructor=[1,,];with(__parent__=constructor)c")
+tryItOut("return __parent__")

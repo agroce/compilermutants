@@ -1,0 +1,2 @@
+tryItOut("__proto__={__proto__:constructor}")
+tryItOut("if(RangeError(__proto__)){if((prototype=__count__))('')}else;")

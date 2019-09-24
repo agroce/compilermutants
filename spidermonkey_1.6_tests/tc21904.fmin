@@ -1,0 +1,2 @@
+tryItOut("if(undefined-=null)i")
+tryItOut("return[,]")

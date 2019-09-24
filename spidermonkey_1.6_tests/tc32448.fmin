@@ -1,0 +1,2 @@
+tryItOut("/x/,constructor=[]")
+tryItOut("with(p={},(p.z=__parent__?t:constructor)()){}")

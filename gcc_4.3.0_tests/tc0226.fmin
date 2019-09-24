@@ -1,0 +1,33 @@
+int printf (const char *, ...);
+struct S0
+{
+    long f5;
+    int f7;
+    int f8;
+    int f9;
+}
+c =
+{
+    0, 0, 0, 1
+};
+
+volatile struct S0 a;
+int b;
+void fn1 ();
+struct S0
+fn2 ()
+{
+    b = 0;
+    for (; b;)
+        fn1 ();
+    return a;
+}
+
+int
+main ()
+{
+    c = fn2 ();
+    c = c;
+    printf ("%d\n", c.f9);
+    return 0;
+}

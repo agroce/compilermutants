@@ -1,0 +1,2 @@
+tryItOut("__proto__=__parent__")
+tryItOut("switch(1){case Error(this):}")

@@ -1,0 +1,2 @@
+tryItOut("while(undefined=constructor)f")
+tryItOut("return[,]")

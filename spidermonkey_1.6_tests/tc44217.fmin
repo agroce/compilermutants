@@ -1,0 +1,2 @@
+tryItOut("export\nc\nswitch(<y></y>){case(undefined/=this):}")
+tryItOut("with({})return[,,]")

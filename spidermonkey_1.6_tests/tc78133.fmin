@@ -1,0 +1,1 @@
+tryItOut("while(undefined=null){}return[1,,]")

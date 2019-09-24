@@ -1,0 +1,27 @@
+int printf (const char *, ...);
+struct S0
+{
+    int f0;
+    int f1;
+    int f2;
+    int f3;
+    char f5;
+};
+int a, b;
+int *c = &b;
+void fn1 ();
+int
+main ()
+{
+    struct S0 d = { 0, 0, 0, 1, 0 };
+    struct S0 *e = &d;
+    *e = d;
+    char *f = &d.f5;
+    a = 0;
+    for (; a;)
+        fn1 (f);
+    if (d.f3)
+        *c = 1;
+    printf ("%d\n", b);
+    return 0;
+}

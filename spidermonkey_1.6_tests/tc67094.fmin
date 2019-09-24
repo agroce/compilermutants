@@ -1,0 +1,2 @@
+tryItOut("while(++undefined?p:{a:#3#})_")
+tryItOut("return[,,]")

@@ -1,0 +1,2 @@
+tryItOut("do{}while(__defineGetter__(\"\",/a/))")
+tryItOut("return this")

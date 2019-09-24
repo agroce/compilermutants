@@ -1,0 +1,4 @@
+tryItOut("_=<x/>")
+tryItOut("prop=o=/x/;__=prop")
+tryItOut("undefined=__count__")
+tryItOut("return[,,]")

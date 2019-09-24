@@ -1,0 +1,1 @@
+tryItOut("if(__noSuchMethod__=arguments)with(__noSuchMethod__.__noSuchMethod__ setter=[].slice.__proto__)return __noSuchMethod__")

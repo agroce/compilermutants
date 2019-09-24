@@ -1,0 +1,3 @@
+tryItOut("while({r:__noSuchMethod__=\"\"}&0)[]")
+tryItOut("undefined=__noSuchMethod__")
+tryItOut("return[,,]")

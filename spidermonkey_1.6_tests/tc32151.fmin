@@ -1,0 +1,3 @@
+tryItOut("with({})__iterator__=__parent__")
+tryItOut("__defineGetter__(\"\",/a/)")
+tryItOut("return(__iterator__)")

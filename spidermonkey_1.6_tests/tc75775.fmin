@@ -1,0 +1,2 @@
+tryItOut("if(__proto__=<y></y>)export p;with({})undefined=__parent__")
+tryItOut("return[,,]")

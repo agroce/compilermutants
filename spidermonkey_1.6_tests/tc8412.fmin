@@ -1,0 +1,2 @@
+tryItOut("switch(prop='fff'.replace()){}with({})undefined=prop")
+tryItOut("if({})return[,]")

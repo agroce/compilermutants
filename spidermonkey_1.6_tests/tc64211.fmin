@@ -1,0 +1,2 @@
+tryItOut("if(__defineGetter__(\"\",/x/))i")
+tryItOut("with({_:__lookupSetter__})return this")

@@ -1,0 +1,30 @@
+int printf (const char *, ...);
+struct S0
+{
+    int f0;
+    int f1;
+    int f2;
+    int f3;
+    int f4;
+    int f5;
+    int f6;
+};
+int a;
+int *b = &a;
+void
+fn1 ()
+{
+    struct S0 c = { };
+    struct S0 *d = &c;
+    *d = c;
+    *b = c.f6;
+    struct S0 **e = &d;
+}
+
+int
+main ()
+{
+    fn1 ();
+    printf ("%d\n", a);
+    return 0;
+}

@@ -1,0 +1,2 @@
+tryItOut("switch(__proto__=arguments?#1=[#1#]:c){}")
+tryItOut("return this")

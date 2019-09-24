@@ -1,0 +1,2 @@
+tryItOut("undefined={prop:[[]]}")
+tryItOut("return[,,,8].map({}.__lookupGetter__)")

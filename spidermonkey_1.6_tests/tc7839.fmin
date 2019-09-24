@@ -1,0 +1,3 @@
+tryItOut("__noSuchMethod__=prop=__proto__")
+tryItOut("__noSuchMethod__.p setter=/x/")
+tryItOut("return prop")

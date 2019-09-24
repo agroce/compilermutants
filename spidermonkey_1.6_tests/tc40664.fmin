@@ -1,0 +1,2 @@
+tryItOut("if(__defineSetter__(\"\",/a/))*")
+tryItOut("do return this;while(0)")

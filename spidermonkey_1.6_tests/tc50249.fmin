@@ -1,0 +1,2 @@
+tryItOut("while(undefined++)h")
+tryItOut("with({})return[1,,]")

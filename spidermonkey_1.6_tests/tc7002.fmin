@@ -1,0 +1,1 @@
+tryItOut("__proto__=__parent__\n#2=(\nnew Error(this))")

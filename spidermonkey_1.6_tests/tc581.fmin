@@ -1,0 +1,2 @@
+tryItOut("eval(\"this.__defineSetter__(\\\"\\\",/a/)\")")
+tryItOut("return this")

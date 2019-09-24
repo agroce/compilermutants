@@ -1,0 +1,2 @@
+tryItOut("with({})undefined=__parent__;__defineGetter__(\"\",/a/)")
+tryItOut("gc();return undefined")

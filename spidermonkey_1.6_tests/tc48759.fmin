@@ -1,0 +1,1 @@
+tryItOut("switch(undefined/=__parent__){case 1:}return[,]")

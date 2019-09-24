@@ -1,0 +1,2 @@
+tryItOut("if(undefined+=__count__)y")
+tryItOut("return[,,]")

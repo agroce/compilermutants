@@ -1,0 +1,1 @@
+tryItOut("switch(undefined=-3/0){}return[[1,,]].filter(function(q){return q})")

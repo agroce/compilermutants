@@ -1,0 +1,3 @@
+tryItOut("__noSuchMethod__=[]")
+tryItOut("undefined%=__noSuchMethod__")
+tryItOut("with({})return[,]")

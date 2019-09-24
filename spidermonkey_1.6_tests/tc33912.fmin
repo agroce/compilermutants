@@ -1,0 +1,2 @@
+tryItOut("undefined=true")
+tryItOut("with({})return[,,]")

@@ -1,0 +1,2 @@
+tryItOut("t getter=/a/")
+tryItOut("return this")

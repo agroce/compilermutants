@@ -1,0 +1,1 @@
+tryItOut("switch(undefined<<=function(){}){}with({_:[]})return[,]")

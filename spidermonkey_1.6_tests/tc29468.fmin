@@ -1,0 +1,2 @@
+tryItOut("if(<x/>)if(__defineSetter__(\"\",/a/))g")
+tryItOut("return this")

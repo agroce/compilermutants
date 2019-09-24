@@ -1,0 +1,2 @@
+tryItOut("__defineGetter__(\"\",/a/)")
+tryItOut("do return this;while(0)")

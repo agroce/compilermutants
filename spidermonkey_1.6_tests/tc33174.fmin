@@ -1,0 +1,2 @@
+tryItOut("while(r getter=/a/)r")
+tryItOut("with({})return this")

@@ -1,0 +1,3 @@
+tryItOut("prop=[1,,]")
+tryItOut("undefined++")
+tryItOut("do return prop;while(0)")

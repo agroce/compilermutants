@@ -1,0 +1,4 @@
+tryItOut("r=<y></y>")
+tryItOut("_=__parent__")
+tryItOut("undefined=__count__")
+tryItOut("return[,,]")

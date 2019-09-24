@@ -1,0 +1,2 @@
+tryItOut("this['__proto__']=__parent__")
+tryItOut("Error(this)")

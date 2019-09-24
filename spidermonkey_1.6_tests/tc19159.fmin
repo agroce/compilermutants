@@ -1,0 +1,2 @@
+tryItOut("undefined&=typeof e")
+tryItOut("return[,,]")

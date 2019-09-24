@@ -1,0 +1,24 @@
+int printf (const char *, ...);
+struct S0
+{
+    int f1;
+    long long f2;
+    int f5;
+    int f9;
+}
+b;
+long long a;
+long long *c = &b.f2, *d = &a;
+int e;
+int
+main ()
+{
+    struct S0 f = { 0, 1, 0, 0 };
+    b = f;
+    b = b;
+    e = *c;
+    *d = e;
+    b.f5 ? 0 : 0 % 0;
+    printf ("%d\n", (int) a);
+    return 0;
+}

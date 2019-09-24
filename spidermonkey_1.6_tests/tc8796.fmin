@@ -1,0 +1,4 @@
+tryItOut("__proto__=__parent__")
+tryItOut("if(undefined-='')<x></x>")
+tryItOut("__count__=[,,]")
+tryItOut("return __count__")

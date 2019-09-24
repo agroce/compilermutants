@@ -1,0 +1,4 @@
+tryItOut("__iterator__=#1=[#1#]")
+tryItOut("__proto__=__iterator__")
+tryItOut("__iterator__=this")
+tryItOut("return this")

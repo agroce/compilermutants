@@ -1,0 +1,1 @@
+tryItOut("with(undefined>>=false)return[Error].map(new Function)")

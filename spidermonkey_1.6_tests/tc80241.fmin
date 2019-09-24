@@ -1,0 +1,1 @@
+tryItOut("try{d}catch(__proto__){const __proto__=<y></y>}")

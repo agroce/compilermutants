@@ -1,0 +1,2 @@
+tryItOut("__proto__=__parent__")
+tryItOut("with({})__proto__['__proto__']=__parent__")

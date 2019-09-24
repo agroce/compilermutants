@@ -1,0 +1,19 @@
+int printf (const char *, ...);
+struct S0
+{
+    int f3;
+    int f4;
+    int f5;
+    int f6;
+    int f9;
+}
+a;
+int
+main ()
+{
+    struct S0 b = { 1 };
+    a = b;
+    a = a;
+    printf ("%d\n", a.f3);
+    return 0;
+}

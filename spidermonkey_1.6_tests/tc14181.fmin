@@ -1,0 +1,2 @@
+tryItOut("if(__defineSetter__(\"\",/x/))_")
+tryItOut("with({})return this")

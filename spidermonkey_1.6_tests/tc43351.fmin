@@ -1,0 +1,1 @@
+tryItOut("try{w}catch(prop){const _=<x></x>,prop=1}")

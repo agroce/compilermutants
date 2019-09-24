@@ -1,0 +1,76 @@
+int printf (const char *, ...);
+int a, b, c, d, e, f, g, i, j, k, l, n, o, p, q, r =
+    1, s, t, u, w, x, y, z, t1, t7, t8;
+struct S0
+{
+    int f1;
+    int f2;
+    int f3:1;
+}
+h, m, v, t3, t5, t6, t9;
+struct
+{
+    int f2;
+}
+t4;
+struct
+{
+    int f0;
+}
+t2;
+static char fn1 (long long);
+void
+fn2 ()
+{
+    n = r;
+    fn1 (n);
+}
+
+char
+fn1 (long long p1)
+{
+    g = 1;
+    for (; g; g = 0)
+        for (; o <= 0; o++)
+        {
+            c = 0;
+            for (; c; c++)
+                e = 0;
+            e++;
+            for (;;)
+                break;
+            p = 0;
+            for (; p <= 0; p++)
+                z = i = k || (y = x = t7 & 1 || j && q != (w = 1 ^ f) < 0);
+            t = m.f3 = p1;
+            m = h;
+        }
+    for (; p1; p1--)
+        l = 0;
+    for (; l; l++)
+        t1 = t7 = t7 & 1;
+    u = 0;
+    u--;
+    u = 0;
+    for (; u;)
+        b || a && b ? 0 : 1;
+    struct S0 t10 = t9;
+    t8 = t10.f3;
+    t4.f2 = t1 = 0;
+    d = 0;
+    d--;
+    v = t5;
+    m.f3 = t2.f0 && s;
+    t3 = t6;
+    h.f2 = 0;
+    for (; h.f2; h.f2++);
+    return 0;
+}
+
+int
+main ()
+{
+    fn2 ();
+    printf ("%d\n", t);
+    return 0;
+}

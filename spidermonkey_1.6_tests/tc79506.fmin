@@ -1,0 +1,1 @@
+tryItOut("switch(__defineGetter__(\"__iterator__\",{}.__lookupGetter__)){case 1:case __iterator__.e:}")

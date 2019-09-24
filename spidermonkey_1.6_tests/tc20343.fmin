@@ -1,0 +1,1 @@
+tryItOut("if(undefined=[1])return[1,,]")

@@ -1,0 +1,2 @@
+tryItOut("__noSuchMethod__=[,,]")
+tryItOut("switch(undefined--){}return __noSuchMethod__")

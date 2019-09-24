@@ -1,0 +1,3 @@
+tryItOut("with({})__noSuchMethod__=__parent__")
+tryItOut("__proto__=__parent__")
+tryItOut("Error(__noSuchMethod__,<y></y>)")

@@ -1,0 +1,2 @@
+tryItOut("while(__iterator__=__parent__)p")
+tryItOut("__proto__=__iterator__;new Error(__iterator__=this)")

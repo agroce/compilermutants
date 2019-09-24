@@ -1,0 +1,74 @@
+int printf (const char *, ...);
+int a, b, c, d, f, g = 5, h = 1, i, j, l, m, n, p =
+                                  1, r, t, u, v, w, x, y, z, t2, t3, t4, t5, t6, t8, t9, t10, t11;
+char e;
+int *k, *o, *q = &j, *s, *t1 = &h;
+int **t7 = &k;
+int fn1 ();
+void fn2 ();
+void fn4 ();
+static int *
+fn3 (int *p1)
+{
+    fn4 ();
+    *t7 = p1;
+    if (h)
+    {
+        *t1 = (p1 == *t7) >= g;
+        z = 0;
+    }
+    else
+    {
+        if (*t1);
+        else
+            t2 = 0;
+        if (*p1)
+        {
+            t6 = c;
+            *p1 = *k = 0;
+            *p1 = t5 || l;
+            fn2 ();
+            t3 = t4;
+        }
+        *p1 = *o;
+    }
+    return 0;
+}
+
+void
+fn4 ()
+{
+    t9 = 0;
+    t8 = 0;
+}
+
+void
+main ()
+{
+    t10 = 0;
+    int t12 = 0;
+    s = fn3 (&t12);
+    for (; m; m++)
+    {
+        y = a ? b : 0;
+        *o = 0;
+    }
+    n = 0;
+    for (; n; n++)
+    {
+        fn2 ();
+        x = 0;
+        v = 0;
+        u = fn1 ();
+    }
+    w = 0;
+    t = 0;
+    t11 = r;
+    for (; p <= 0;)
+        q = 0;
+    printf ("%s %d\n", &e, h);
+    printf (&e, 0);
+    d = i;
+    if (f)
+        printf ("%x\n", 0);
+}

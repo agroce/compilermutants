@@ -1,0 +1,2 @@
+tryItOut("if(__proto__=#1=[#1#]){}")
+tryItOut("with({p:[]})return this")

@@ -1,0 +1,2 @@
+tryItOut("while(__proto__=#1=[#1#])#1#")
+tryItOut("return __proto__.__parent__")

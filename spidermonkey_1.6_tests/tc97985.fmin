@@ -1,0 +1,1 @@
+tryItOut("if(undefined^=/x/){}return[1,,]")

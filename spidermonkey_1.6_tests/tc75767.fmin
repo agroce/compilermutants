@@ -1,0 +1,3 @@
+tryItOut("if(constructor=[]){}");tryItOut("__iterator__=constructor")
+tryItOut("with({})undefined=__iterator__")
+tryItOut("return[1,,]")

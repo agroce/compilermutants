@@ -1,0 +1,2 @@
+tryItOut("while(undefined/=<x></x>)v")
+tryItOut("return[,,]")

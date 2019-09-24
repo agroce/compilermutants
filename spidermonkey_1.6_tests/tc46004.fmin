@@ -1,0 +1,2 @@
+tryItOut("switch(0){case(undefined^=__parent__):}prop=[,,]")
+tryItOut("return prop")

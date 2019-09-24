@@ -1,0 +1,2 @@
+tryItOut("_=__parent__")
+tryItOut("while((undefined=__count__=__count__)&0){}return[1,,]")

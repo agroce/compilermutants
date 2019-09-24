@@ -1,0 +1,2 @@
+tryItOut("undefined%=<y></y>")
+tryItOut("return[1,,]")

@@ -1,0 +1,3 @@
+tryItOut("undefined--")
+tryItOut("if(__proto__=[1,,])[]")
+tryItOut("return __proto__")

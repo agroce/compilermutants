@@ -1,0 +1,2 @@
+tryItOut("undefined%=constructor")
+tryItOut("with(__proto__=[1,,]){}return __proto__")

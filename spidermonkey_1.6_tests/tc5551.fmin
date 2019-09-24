@@ -1,0 +1,2 @@
+tryItOut("if(__defineGetter__(\"\",/a/))d")
+tryItOut("return this")

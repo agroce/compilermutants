@@ -1,0 +1,2 @@
+tryItOut("if(prop=[,,])i")
+tryItOut("with(undefined=1e81)return prop")

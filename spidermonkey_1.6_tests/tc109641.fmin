@@ -1,0 +1,4 @@
+tryItOut("__iterator__={p:[]}")
+tryItOut("prop=__proto__=__iterator__")
+tryItOut("do{}while((__proto__.__proto__=#1=[#1#])&0)")
+tryItOut("return prop")

@@ -1,0 +1,3 @@
+tryItOut("while(__noSuchMethod__+=true){}")
+tryItOut("undefined=__noSuchMethod__.constructor")
+tryItOut("return[,,]")

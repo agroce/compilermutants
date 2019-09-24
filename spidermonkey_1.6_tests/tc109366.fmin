@@ -1,0 +1,2 @@
+tryItOut("with(undefined%=constructor)n")
+tryItOut("return[,,]")

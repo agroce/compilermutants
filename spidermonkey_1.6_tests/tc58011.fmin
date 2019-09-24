@@ -1,0 +1,2 @@
+tryItOut("if(++undefined)u")
+tryItOut("if({})return[,]")

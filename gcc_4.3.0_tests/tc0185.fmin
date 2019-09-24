@@ -1,0 +1,26 @@
+int printf (const char *, ...);
+struct S0
+{
+    int f0;
+    int f6;
+};
+struct S2
+{
+    struct S0 f0;
+    int f1;
+    int f2;
+}
+a =
+{
+    1
+};
+
+int
+main ()
+{
+    struct S2 b = { };
+    a = b;
+    a = a;
+    printf ("%d\n", a.f0.f0);
+    return 0;
+}

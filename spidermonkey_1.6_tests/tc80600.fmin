@@ -1,0 +1,1 @@
+tryItOut("try{h}catch(constructor){const constructor=/x/}")

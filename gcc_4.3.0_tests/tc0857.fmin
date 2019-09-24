@@ -1,0 +1,13 @@
+int printf (const char *, ...);
+int a;
+static const unsigned *b = &a;
+static const unsigned **const c = &b;
+int
+main ()
+{
+    int *d = &a;
+    *d = 1;
+    *d = **c;
+    printf ("%d\n", a);
+    return 0;
+}

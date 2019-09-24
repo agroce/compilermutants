@@ -1,0 +1,2 @@
+tryItOut("if({r:[]})if(undefined*=9)#3#")
+tryItOut("return[,]")

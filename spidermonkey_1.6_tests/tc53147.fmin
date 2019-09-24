@@ -1,0 +1,1 @@
+tryItOut("with(p={},(p.z=(1)?<x/>:<x/>)())c")

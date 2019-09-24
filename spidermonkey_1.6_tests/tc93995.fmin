@@ -1,0 +1,1 @@
+tryItOut("switch({_:++undefined}){}return[1,,]")

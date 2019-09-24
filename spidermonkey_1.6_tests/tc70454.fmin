@@ -1,0 +1,2 @@
+tryItOut("undefined=__parent__")
+tryItOut("return[,]")

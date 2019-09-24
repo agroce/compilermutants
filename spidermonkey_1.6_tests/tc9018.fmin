@@ -1,0 +1,2 @@
+tryItOut("undefined=5")
+tryItOut("return[1,,]")

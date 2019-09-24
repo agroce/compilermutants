@@ -1,0 +1,2 @@
+tryItOut("if(undefined>>=[])_")
+tryItOut("with({})return[1,,]")

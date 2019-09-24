@@ -1,0 +1,2 @@
+tryItOut("if(undefined<<=\"\")s")
+tryItOut("return[,,]")

@@ -1,0 +1,3 @@
+tryItOut("with(undefined=null)r")
+tryItOut("++undefined")
+tryItOut("var n;with({})return[,,]")

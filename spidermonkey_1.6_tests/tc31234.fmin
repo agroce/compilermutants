@@ -1,0 +1,2 @@
+tryItOut("with(__proto__.watch(\"__proto__\",__lookupGetter__))h")
+tryItOut("with(__proto__=new gc)n")

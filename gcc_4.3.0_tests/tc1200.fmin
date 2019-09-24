@@ -1,0 +1,24 @@
+int printf (const char *, ...);
+struct S0
+{
+    int f2:1;
+    char f3;
+    int f5:1;
+    int:1;
+}
+a =
+{
+    0, 1, 1
+}
+
+, b, c;
+int
+main ()
+{
+    struct S0 d = a;
+    for (; d.f3; d.f3++)
+        c = d;
+    b = c;
+    printf ("%d\n", b.f5);
+    return 0;
+}

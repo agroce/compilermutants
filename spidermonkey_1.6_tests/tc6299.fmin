@@ -1,0 +1,2 @@
+tryItOut("__defineGetter__(\"\",/a/)")
+tryItOut("with({_:__proto__})return this")

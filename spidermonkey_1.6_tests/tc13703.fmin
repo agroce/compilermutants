@@ -1,0 +1,2 @@
+tryItOut("if(gc)undefined>>=true")
+tryItOut("return[,,]")

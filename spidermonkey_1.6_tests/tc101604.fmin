@@ -1,0 +1,1 @@
+tryItOut("with((constructor._=__proto__?<x></x>:y)()){}")

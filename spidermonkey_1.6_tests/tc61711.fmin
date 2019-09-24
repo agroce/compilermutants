@@ -1,0 +1,2 @@
+tryItOut("undefined=function(id){return id}")
+tryItOut("return[1,,]")

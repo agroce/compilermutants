@@ -1,0 +1,2 @@
+tryItOut("while(__defineSetter__(\"\",/x/))c")
+tryItOut("return this")

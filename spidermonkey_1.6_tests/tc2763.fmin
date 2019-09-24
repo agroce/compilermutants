@@ -1,0 +1,1 @@
+tryItOut("switch(p={},(p.z=undefined?<y></y>:[])()){case 6:}")

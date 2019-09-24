@@ -1,0 +1,2 @@
+tryItOut("__defineGetter__(\"__iterator__\",{}.__lookupGetter__)")
+tryItOut("switch(t=<y></y>.__lookupGetter__(\"\")){case<y></y>.propertyIsEnumerable(\"\"):case __iterator__.p:}")

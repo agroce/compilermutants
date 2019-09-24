@@ -1,0 +1,2 @@
+tryItOut("do{if(\"\"){<x></x>}if(undefined++){}}while(0)")
+tryItOut("with({})return[,]")

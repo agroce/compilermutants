@@ -1,0 +1,3 @@
+tryItOut("prop=__proto__")
+tryItOut("__proto__=__parent__")
+tryItOut("prop.__proto__=this")

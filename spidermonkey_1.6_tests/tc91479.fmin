@@ -1,0 +1,3 @@
+tryItOut("__proto__=[,,]")
+tryItOut("--undefined")
+tryItOut("return __proto__")

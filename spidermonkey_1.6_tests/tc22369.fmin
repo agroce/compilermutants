@@ -1,0 +1,1 @@
+tryItOut("__proto__=/x/(__defineGetter__),new Error(this)")

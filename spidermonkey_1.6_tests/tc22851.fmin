@@ -1,0 +1,2 @@
+tryItOut("prop=constructor;(__iterator__=constructor)(__iterator__.__proto__=null)")
+tryItOut("Error(prop,/x/)")

@@ -1,0 +1,2 @@
+tryItOut("with({})this.__defineGetter__(\"\",/a/)")
+tryItOut("with({})return this")

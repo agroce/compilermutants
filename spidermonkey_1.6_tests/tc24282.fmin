@@ -1,0 +1,2 @@
+tryItOut("do{with({_:1})export c}while(undefined=0)")
+tryItOut("return[1,,]")

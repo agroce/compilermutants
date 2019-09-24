@@ -1,0 +1,3 @@
+tryItOut("__count__=<x></x>")
+tryItOut("with(__defineSetter__(\"__count__\",/a/))i")
+tryItOut("M:switch(__count__){case'aaa'.replace(/a/g,gc):case __count__.(<x/>):}")

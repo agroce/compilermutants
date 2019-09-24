@@ -1,0 +1,3 @@
+tryItOut("__proto__=__parent__")
+tryItOut("while((__proto__=this)&0){}")
+tryItOut("while(<bbb xmlns:ccc=\"\"><ccc:eee></ccc:eee></bbb>(new Error(__proto__))){}")

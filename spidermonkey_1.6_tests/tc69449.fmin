@@ -1,0 +1,4 @@
+tryItOut("__proto__=__parent__")
+tryItOut("undefined^=<x/>")
+tryItOut("__parent__=[,]")
+tryItOut(";return __parent__")

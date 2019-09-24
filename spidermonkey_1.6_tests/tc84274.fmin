@@ -1,0 +1,6 @@
+tryItOut("___=constructor")
+tryItOut("prop=__=u=_=n=___")
+tryItOut("prototype=r=prop")
+tryItOut("w=prototype")
+tryItOut("undefined=__count__")
+tryItOut("return[1,,]")

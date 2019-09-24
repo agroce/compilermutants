@@ -1,0 +1,3 @@
+tryItOut("if(undefined|='')c")
+tryItOut("if(<x></x>)__proto__=[,]")
+tryItOut("return __proto__")

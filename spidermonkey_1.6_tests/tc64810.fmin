@@ -1,0 +1,3 @@
+tryItOut("w=p=constructor")
+tryItOut("undefined=__count__")
+tryItOut("return[,,]")

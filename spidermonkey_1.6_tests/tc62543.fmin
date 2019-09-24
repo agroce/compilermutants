@@ -1,0 +1,1 @@
+tryItOut("switch(undefined/=__lookupGetter__){case<y></y>:}with({})return[1,,]")

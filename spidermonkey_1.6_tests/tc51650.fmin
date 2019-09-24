@@ -1,0 +1,1 @@
+tryItOut("return(RangeError().__proto__)")

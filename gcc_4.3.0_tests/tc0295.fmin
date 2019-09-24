@@ -1,0 +1,31 @@
+int printf (const char *, ...);
+struct S0
+{
+    int f0;
+    int f1;
+    short f2;
+    char f3;
+};
+int a, b, d, e, f;
+int *c = &b;
+void
+fn1 ()
+{
+    struct S0 g = { };
+    struct S0 *h = &g;
+    *h = g;
+    short *i = &g.f2;
+    d = f & 0 != a;
+    *i = 0;
+    *c = g.f3;
+    for (; e;);
+    short **j = &i;
+}
+
+int
+main ()
+{
+    fn1 ();
+    printf ("%d\n", b);
+    return 0;
+}

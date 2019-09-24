@@ -1,0 +1,1 @@
+tryItOut("try{*}catch(_ if function(){}()){}catch(__proto__ if function(){gc()}()){}")

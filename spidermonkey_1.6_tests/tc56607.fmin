@@ -1,0 +1,2 @@
+tryItOut("const _;__defineGetter__(\"\",/a/)")
+tryItOut("with({e:this})return this")

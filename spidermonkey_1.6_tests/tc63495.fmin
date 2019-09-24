@@ -1,0 +1,2 @@
+tryItOut("with(prototype=<x><y/></x>)undefined=prototype")
+tryItOut("return[1,,]")

@@ -1,0 +1,3 @@
+tryItOut("__proto__=__parent__")
+tryItOut("__parent__=this")
+tryItOut("switch(new Error(<x/>,__parent__)){case 0:}")

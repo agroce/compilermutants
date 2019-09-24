@@ -1,0 +1,2 @@
+tryItOut("prop setter=eval")
+tryItOut("switch(<y></y>.__lookupSetter__(\"\")){case 5:case prop.p:}")

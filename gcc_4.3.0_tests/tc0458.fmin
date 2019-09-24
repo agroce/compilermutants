@@ -1,0 +1,92 @@
+int printf (const char *, ...);
+int a, b, c, d, e, g, i, j, l, m, n, o, q, s, t, u, x, t5, t7, t8, t11, t12,
+    t14, t16, t18;
+char f, h, p;
+short k;
+char *r = &p, *z, *t4, *t6 = &h;
+int *v, *t1, *t3 = &x, *t10 = &o, *t13 = &t12, *t15 = &t14, *t19 = &l;
+int **w = &v;
+short *t2 = &k;
+int
+fn1 ()
+{
+    return a && b > 0 > -b || a && b && b ? 0 : 1 + b;
+}
+
+int fn2 ();
+static unsigned short fn3 ();
+static int fn4 ();
+static int fn5 ();
+char *fn6 (unsigned short);
+void
+fn7 ()
+{
+    char *y = &f;
+    *y = 5L;
+    fn3 ();
+}
+
+unsigned short
+fn3 ()
+{
+    char **t9 = &z;
+    *t1--;
+    *t2 = (*t9 = &f) == &f ^ f;
+    t4 = fn6 (*t2);
+    *t6 = g = 0;
+    t5 = fn5 ();
+    *r = t7 != 0 | t7 ^ q == 0;
+    t8 = 1 + e;
+    *t3 = fn4 ();
+    return 0;
+}
+
+int
+fn4 ()
+{
+    int t17;
+    *t15 = 0;
+    {
+        t17 = a && b > 0 > -b || a && b && b ? 0 : 1 + b;
+    } *t13 = ~*t10 >= t17;
+    t16 ^= 1;
+    n = 0;
+    t11 = 0;
+    s = 0;
+    t = 0;
+    *w = 0;
+    u = 0;
+    for (; u; u = fn2 ())
+        m = 0;
+    return 0;
+}
+
+int
+fn5 ()
+{
+    g = 0;
+    t18 = c && 0 > -d ? 0 : c + 1;
+    g = 0;
+    for (; t18 < 0;)
+        j = 0;
+    j = 0;
+    i = 0;
+    for (; i; ++i)
+        fn1 ();
+    return 0;
+}
+
+char *
+fn6 (unsigned short p1)
+{
+    *t19 = p1;
+    return 0;
+}
+
+int
+main ()
+{
+    fn7 ();
+    printf ("%d\n", l);
+    return 0;
+}

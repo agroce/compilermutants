@@ -1,0 +1,2 @@
+tryItOut("__defineSetter__(\"constructor\",[].map)")
+tryItOut("switch({}.__defineGetter__(\"\",eval)){case 6:case constructor.p=gc:}")

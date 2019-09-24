@@ -1,0 +1,2 @@
+tryItOut("window=[]")
+tryItOut("if(p={},(p.z=window?<y></y>:w)()){}")

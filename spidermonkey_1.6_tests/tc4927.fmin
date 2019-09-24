@@ -1,0 +1,2 @@
+tryItOut("with(undefined/=1)<x></x>")
+tryItOut("return[,]")

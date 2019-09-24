@@ -1,0 +1,3 @@
+tryItOut("if(__noSuchMethod__=[[][undefined]])i")
+tryItOut("undefined++")
+tryItOut("return __noSuchMethod__")

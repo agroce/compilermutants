@@ -1,0 +1,3 @@
+tryItOut("constructor=this")
+tryItOut("__proto__=__parent__")
+tryItOut("new Error(constructor)")

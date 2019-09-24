@@ -1,0 +1,1 @@
+tryItOut("undefined=__proto__;return[1,,]")

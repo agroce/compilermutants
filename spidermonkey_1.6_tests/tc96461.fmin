@@ -1,0 +1,3 @@
+tryItOut("o=__count__")
+tryItOut("undefined=__count__")
+tryItOut("return[,]")

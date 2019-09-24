@@ -1,0 +1,3 @@
+tryItOut("++undefined")
+tryItOut("switch(prototype=[1,,]){case(t):}")
+tryItOut("return prototype")

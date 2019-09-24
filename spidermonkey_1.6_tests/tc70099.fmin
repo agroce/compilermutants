@@ -1,0 +1,1 @@
+tryItOut("switch(__defineGetter__(\"\",''.split)){case{_:[]}:case __iterator__._:var __iterator__}")

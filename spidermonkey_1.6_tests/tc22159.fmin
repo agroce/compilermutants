@@ -1,0 +1,1 @@
+tryItOut("switch(undefined&=false){}gc();return[1,,]")

@@ -1,0 +1,2 @@
+tryItOut("if(__defineSetter__(\"\",/a/))y")
+tryItOut("return(__proto__.__parent__)")

@@ -1,0 +1,1 @@
+tryItOut("switch(undefined|=__proto__){case 7:}return[1,,]")

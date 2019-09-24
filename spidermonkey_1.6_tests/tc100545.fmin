@@ -1,0 +1,1 @@
+tryItOut("switch([].watch(\"\",({}).__lookupGetter__)){case 4:case((this.z.z)):}")

@@ -1,0 +1,3 @@
+tryItOut("with(undefined*=<y></y>)*")
+tryItOut("if(__proto__=[,])m")
+tryItOut("return __proto__")

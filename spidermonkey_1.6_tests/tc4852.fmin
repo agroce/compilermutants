@@ -1,0 +1,1 @@
+tryItOut("if(__lookupSetter__)if(p={},(p.z=this?undefined:w)())f")

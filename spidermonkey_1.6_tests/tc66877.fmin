@@ -1,0 +1,3 @@
+tryItOut("const c;undefined>>=''")
+tryItOut("__iterator__={}[undefined]")
+tryItOut("return Array(__iterator__)")

@@ -1,0 +1,2 @@
+tryItOut("switch(undefined++){case a:}")
+tryItOut("return[,]")

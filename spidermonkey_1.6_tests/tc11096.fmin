@@ -1,0 +1,2 @@
+tryItOut("prototype=[1,,]")
+tryItOut("undefined=prototype;return undefined")

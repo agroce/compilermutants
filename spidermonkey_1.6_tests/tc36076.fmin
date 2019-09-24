@@ -1,0 +1,3 @@
+tryItOut("with({})this.__defineSetter__(\"__noSuchMethod__\",''.split)(this.__defineGetter__(\"prop\",hasOwnProperty))")
+tryItOut("undefined-=null")
+tryItOut("return[,,[],,[__parent__,__noSuchMethod__,prop]]")

@@ -1,0 +1,2 @@
+tryItOut("--undefined")
+tryItOut("prototype=[,];<y></y>;return prototype")

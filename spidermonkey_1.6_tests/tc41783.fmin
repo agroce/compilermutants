@@ -1,0 +1,3 @@
+tryItOut("__iterator__=null")
+tryItOut("__proto__=__iterator__")
+tryItOut("__iterator__=Error(this)")

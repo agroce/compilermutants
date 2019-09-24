@@ -1,0 +1,2 @@
+tryItOut("__defineSetter__(\"\",RegExp())")
+tryItOut("return this")

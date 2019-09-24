@@ -1,0 +1,1 @@
+tryItOut("switch((0).a){case r=(new Error):case this.z.z:}")

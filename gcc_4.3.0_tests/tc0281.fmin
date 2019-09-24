@@ -1,0 +1,20 @@
+int printf (const char *, ...);
+unsigned char *a;
+int b;
+unsigned char **c;
+static int
+fn1 (int p1, int p2)
+{
+    return p1 + p2;
+}
+
+int
+main ()
+{
+    int d;
+    d = fn1 (4, (c = &a) != &a);
+    if (d)
+        b = 1;
+    printf ("%d\n", b);
+    return 0;
+}

@@ -1,0 +1,3 @@
+tryItOut("eval(\"export __count__\")=/x/")
+tryItOut("switch(__count__){}")
+tryItOut("")

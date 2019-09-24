@@ -1,0 +1,46 @@
+int printf (const char *, ...);
+int a, b, e, f, i, j;
+static const int *c = &b;
+int *h;
+static int
+fn1 (p1)
+{
+    return p1 && a && 0 / 0 || p1 && a <= 0 < 0 / 0 / 0 && 0 / a;
+}
+
+static int **fn2 ();
+const char fn3 ();
+void
+fn4 ()
+{
+    fn2 ();
+    int *d = &b;
+    *d = *c;
+}
+
+int **
+fn2 ()
+{
+    f = 0;
+    int *g = &b;
+    for (; e; e++);
+    *g = fn1 (1 && fn3 ()) == 0;
+    return 0;
+}
+
+const char
+fn3 ()
+{
+    i = 0;
+    for (; i; i++)
+        h = 0;
+    return j;
+}
+
+int
+main ()
+{
+    fn4 ();
+    printf ("%d\n", b);
+    return 0;
+}

@@ -1,0 +1,2 @@
+tryItOut("__proto__=__parent__")
+tryItOut("while(#1=Error(this))switch(<y></y>){case 9:}")

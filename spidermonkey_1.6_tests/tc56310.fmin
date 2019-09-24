@@ -1,0 +1,5 @@
+tryItOut("r=<y></y>")
+tryItOut("n=[]")
+tryItOut("_=c=constructor")
+tryItOut("undefined=__count__")
+tryItOut("return[,]")

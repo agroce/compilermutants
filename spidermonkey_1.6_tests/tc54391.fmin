@@ -1,0 +1,2 @@
+tryItOut("switch(__defineGetter__(\"\",/a/)){case r:}")
+tryItOut("return this")

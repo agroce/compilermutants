@@ -1,0 +1,3 @@
+tryItOut("r=__count__")
+tryItOut("undefined=__count__=s=<y></y>")
+tryItOut("return[,]")

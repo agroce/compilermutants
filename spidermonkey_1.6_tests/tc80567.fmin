@@ -1,0 +1,2 @@
+tryItOut("switch(''){case(undefined>>=''):}")
+tryItOut("return[,]")

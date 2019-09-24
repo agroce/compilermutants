@@ -1,0 +1,2 @@
+tryItOut("while(undefined--)d")
+tryItOut("return[1,,]")

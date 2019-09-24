@@ -1,0 +1,2 @@
+tryItOut("__iterator__=[,,]")
+tryItOut("with({p:undefined--})return __iterator__")

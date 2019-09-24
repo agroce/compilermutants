@@ -1,0 +1,3 @@
+tryItOut("let,x")
+tryItOut("__proto__=#1=[#1#];__defineGetter__(\"__iterator__\",/x/)")
+tryItOut("if({e:{}})uneval(__iterator__.__parent__)")

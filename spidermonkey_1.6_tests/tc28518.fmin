@@ -1,0 +1,2 @@
+tryItOut("with(undefined>>=undefined)c")
+tryItOut("return''.eval([,,])")

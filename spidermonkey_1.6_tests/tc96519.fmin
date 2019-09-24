@@ -1,0 +1,3 @@
+tryItOut("__proto__=__parent__")
+tryItOut("__proto__=this")
+tryItOut("if(new Error(<y></y>?__proto__:1)){}")

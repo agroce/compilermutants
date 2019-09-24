@@ -1,0 +1,2 @@
+tryItOut("while(__iterator__=0){}undefined-=__iterator__")
+tryItOut("return[,,]")

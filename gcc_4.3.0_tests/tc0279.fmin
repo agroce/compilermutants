@@ -1,0 +1,107 @@
+int printf (const char *, ...);
+int a, b, c, e = 1, f, h =
+                     1, i, j, k, l, n, p, r, t, u, z, t2, t3, t4, t5, t6, t7, t8, t9, t10, t12,
+                     t13, t14, t20;
+union U0
+{
+    int f0;
+    unsigned f1;
+    int f3;
+}
+d, w, x, t1, q[2][1];
+union
+{
+    int f0;
+    short f1;
+    unsigned f2;
+}
+g;
+union
+{
+    int f0;
+    char f1;
+    unsigned f3;
+}
+o, s, v, y;
+static int m[] = { 0 };
+
+unsigned char t11;
+int fn1 ();
+void fn2 ();
+static union U0
+        fn3 ()
+{
+    unsigned t15;
+    fn2 ();
+    if (h)
+    {
+        h = 0;
+        for (; h <= 0; h++)
+        {
+            v.f3 = 0;
+            for (; v.f3 <= 0; v.f3++)
+            {
+                for (; g.f2 <= 0; g.f2++)
+                {
+                    for (; u <= 1; u++)
+                    {
+                        d = q[1][0];
+                        {
+                            union U0 t16 = d;
+                            t15 = t16.f1;
+                        }
+                        {
+                            union U0 t17 = q[0][0];
+                            t14 = t17.f1;
+                        }
+                        z = f = m[v.f3 + h] <= t15 < t14 <= k;
+                        union U0 t18 = q[0][0];
+                        t6 = t18.f1;
+                        d = d;
+                        t13 = t18.f1;
+                        t11 = t13;
+                        q[1][0].f0 = e;
+                        int t19 = t11;
+                        t12 = 1 + t19;
+                        l = t12 || m[v.f3 * h + h] == w.f0 == fn1 ();
+                        z && s.f0;
+                        s.f0 = i & o.f1 == j ^ r != p ^ z;
+                    }
+                    for (; n; n++);
+                }
+                return t1;
+            }
+            t8 = fn1 ();
+            t9 = fn1 ();
+            t10 = fn1 ();
+            t = fn1 ();
+        }
+        for (;; u++)
+        {
+            for (; t3; t3++)
+                t2 = 0;
+            for (; y.f1; y.f1++)
+                y.f0++;
+            for (; y.f0;)
+                t5 = c ? b : b % c;
+            g.f1 = t7;
+            t4 = fn1 () > fn1 ();
+        }
+    }
+    return x;
+}
+
+void
+fn2 ()
+{
+    t20 = 0;
+    a && 0 / 0;
+}
+
+int
+main ()
+{
+    fn3 ();
+    printf ("%d\n", d.f1);
+    return 0;
+}

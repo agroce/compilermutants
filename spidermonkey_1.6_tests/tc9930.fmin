@@ -1,0 +1,3 @@
+tryItOut("__count__={}")
+tryItOut("__defineSetter__(\"__count__\",eval)")
+tryItOut("switch(__defineGetter__(\"\",Function(\"o=''\"))){case(function(){}):with(d){}case __count__.(\"\",_):}")

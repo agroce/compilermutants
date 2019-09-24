@@ -1,0 +1,4 @@
+tryItOut("switch(p=/x/){}switch(_=''){case z:}")
+tryItOut("h=/x/")
+tryItOut("undefined=__count__")
+tryItOut("return[,]")

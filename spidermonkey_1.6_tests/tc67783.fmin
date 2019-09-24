@@ -1,0 +1,2 @@
+tryItOut("if(undefined>>=this)c")
+tryItOut("return[1,,]")

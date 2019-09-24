@@ -1,0 +1,2 @@
+tryItOut("if(__proto__=function(id){return id})undefined=__proto__")
+tryItOut("return[,]")

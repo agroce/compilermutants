@@ -1,0 +1,1 @@
+tryItOut("switch(undefined=0){}with({})return[1,,]")

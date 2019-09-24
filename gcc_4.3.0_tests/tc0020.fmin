@@ -1,0 +1,26 @@
+int printf (const char *, ...);
+int a, d;
+struct S2
+{
+    int f2;
+    int f6;
+};
+short b;
+short *c = &b;
+void
+fn1 (struct S2 *p1)
+{
+    d = a == 0 || 0 % 0;
+}
+
+int
+main ()
+{
+    struct S2 e = { };
+    struct S2 *f = &e;
+    *f = e;
+    fn1 (&e);
+    *c = e.f6;
+    printf ("%d\n", b);
+    return 0;
+}

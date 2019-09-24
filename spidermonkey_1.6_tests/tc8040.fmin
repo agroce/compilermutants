@@ -1,0 +1,2 @@
+tryItOut("__iterator__=[,[,]]")
+tryItOut("if(--undefined)c");tryItOut("return __iterator__")

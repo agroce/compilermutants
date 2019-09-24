@@ -1,0 +1,1 @@
+tryItOut("do;while(p={},(p.z=constructor?false:w)())")

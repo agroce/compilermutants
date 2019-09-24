@@ -1,0 +1,3 @@
+tryItOut("with(prototype=1)prop=prototype")
+tryItOut("undefined-=prop")
+tryItOut("return[,]")

@@ -1,0 +1,3 @@
+tryItOut("with({})undefined=__parent__")
+tryItOut("i setter=/a/")
+tryItOut("return[,,]")

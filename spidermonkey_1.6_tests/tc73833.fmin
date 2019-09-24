@@ -1,0 +1,1 @@
+tryItOut("switch(undefined%=[]){case 4:}return[,,]")

@@ -1,0 +1,26 @@
+int printf (const char *, ...);
+int a, c, d, f, g;
+int *b;
+unsigned **e;
+unsigned ***h;
+void
+fn1 ()
+{
+    int i;
+    for (; a; a++);
+    b = &d;
+    for (; g;)
+        f = 0;
+    int *j = &c;
+    *j = 10LL;
+    i = c;
+    *b = &e == (h = &e) ^ i;
+}
+
+int
+main ()
+{
+    fn1 ();
+    printf ("%x\n", d);
+    return 0;
+}

@@ -1,0 +1,2 @@
+tryItOut("while(__defineGetter__(\"\",/a/))o")
+tryItOut("with({})return __parent__")

@@ -1,0 +1,2 @@
+tryItOut("__proto__=__parent__")
+tryItOut("new Error(eval(\"this\",#1=[#1#]))")

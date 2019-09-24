@@ -1,0 +1,2 @@
+tryItOut("__proto__=__parent__")
+tryItOut("with((RangeError(\"\",this)).eval((eval(\"return;\",[[]]&__proto__))))while((prototype)&&0)(\"\")")

@@ -1,0 +1,1 @@
+tryItOut("try{return{_ setter:/x/}}catch(_){}")

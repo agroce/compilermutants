@@ -1,0 +1,2 @@
+tryItOut("if(undefined^=/x/?{_:__parent__}:l)e")
+tryItOut("return[1,,]")

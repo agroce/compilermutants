@@ -1,0 +1,3 @@
+tryItOut("undefined/={}")
+tryItOut("prop=[,,];function(){}({}),__iterator__=/x/")
+tryItOut("return{__proto__:prop,p:__iterator__}")

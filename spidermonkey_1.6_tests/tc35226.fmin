@@ -1,0 +1,4 @@
+tryItOut("prototype=#1=[#1#]")
+tryItOut("__proto__=prototype")
+tryItOut("do prototype=null;while(e)")
+tryItOut("return this")

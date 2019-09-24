@@ -1,0 +1,2 @@
+tryItOut("if(__proto__._ getter=/a/)l")
+tryItOut("return __proto__")

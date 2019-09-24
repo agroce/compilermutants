@@ -1,0 +1,2 @@
+tryItOut("if(undefined%=null)a")
+tryItOut("with({})return[1,,]")

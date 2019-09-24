@@ -1,0 +1,2 @@
+tryItOut("undefined>>=true")
+tryItOut("return[,,,8].map(gc)")

@@ -1,0 +1,1 @@
+tryItOut("with({})__proto__.watch(\"__count__\",function(){})=t");tryItOut("do{with({__count__:{}})(true);break}while((({a2:z2}))&&0)")

@@ -1,0 +1,2 @@
+tryItOut("if(undefined='')if(<x/>)switch(''){case 0:}")
+tryItOut("return[,,]")

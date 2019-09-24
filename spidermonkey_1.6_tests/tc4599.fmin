@@ -1,0 +1,2 @@
+tryItOut("__proto__._ getter=/a/")
+tryItOut("{}return __proto__")

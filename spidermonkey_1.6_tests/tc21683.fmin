@@ -1,0 +1,1 @@
+tryItOut("switch(watch(\"\",gc)){case 5:var prop;case prop.o:}")

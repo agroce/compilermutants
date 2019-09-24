@@ -1,0 +1,2 @@
+tryItOut("if(undefined++)L")
+tryItOut("with({})return[,]")

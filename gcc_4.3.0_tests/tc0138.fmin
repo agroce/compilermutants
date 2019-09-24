@@ -1,0 +1,25 @@
+int printf (const char *, ...);
+union U2
+{
+    int f0;
+    int f2;
+}
+b =
+{
+    1
+}
+
+, c;
+int a, d;
+int
+main ()
+{
+    union U2 e = b;
+    c = e = e;
+    union U2 f = c;
+    if (f.f0)
+        a = 1;
+    d = 0 ? 0 : e.f0;
+    printf ("%d\n", a);
+    return 0;
+}

@@ -1,0 +1,3 @@
+tryItOut("e=_=c=o=__=__count__")
+tryItOut("undefined=__count__")
+tryItOut("with({})return[,,]")

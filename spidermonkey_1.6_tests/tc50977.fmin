@@ -1,0 +1,2 @@
+tryItOut("if(<y></y>?this.__defineGetter__(\"\",/a/):[])p")
+tryItOut("with({_:Date})return this")

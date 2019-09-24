@@ -1,0 +1,4 @@
+tryItOut("while(r=0)<x></x>")
+tryItOut("if([])if(_=__count__)i")
+tryItOut("undefined=__count__")
+tryItOut("return[1,,]")

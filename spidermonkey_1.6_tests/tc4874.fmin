@@ -1,0 +1,1 @@
+tryItOut("try{*}catch(prototype){const prototype=this}")

@@ -1,0 +1,2 @@
+tryItOut("if(__defineSetter__(\"\",/a/))y")
+tryItOut("return(1..__parent__)")

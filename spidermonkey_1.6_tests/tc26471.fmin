@@ -1,0 +1,2 @@
+tryItOut("if({},function(){})if(++undefined)<x></x>")
+tryItOut("L:{return[,];(null)}")

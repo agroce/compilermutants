@@ -1,0 +1,35 @@
+int printf (const char *, ...);
+int a, b, c, d, h, i;
+int *e, *f;
+int **g;
+int *
+fn1 ()
+{
+    for (; d;)
+        a && 0 / 0;
+    return 0;
+}
+
+int
+main ()
+{
+    {
+        int j = 0;
+        h = &j == e;
+    }
+    {
+        int k = 1;
+        for (; c;)
+            f = &k;
+        fn1 ();
+        i = k;
+    }
+    if (i)
+    {
+        b = 1;
+        for (; b <= 0;)
+            *g = fn1 ();
+    }
+    printf ("%d\n", b);
+    return 0;
+}

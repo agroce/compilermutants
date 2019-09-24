@@ -1,0 +1,2 @@
+tryItOut("__iterator__=__defineSetter__(\"\",/a/)")
+tryItOut("with({_:__iterator__})return __parent__")

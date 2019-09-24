@@ -1,0 +1,2 @@
+tryItOut("with(__proto__=__parent__){}")
+tryItOut("with({r:<x></x>})new Error(this)")

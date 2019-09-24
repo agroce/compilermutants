@@ -1,0 +1,3 @@
+tryItOut("if(null){}__proto__=null")
+tryItOut("__count__=this")
+tryItOut("new Error(__count__)")

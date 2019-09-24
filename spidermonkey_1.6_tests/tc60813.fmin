@@ -1,0 +1,8 @@
+tryItOut("L=[]")
+tryItOut("r=<x/>")
+tryItOut("_=__parent__")
+tryItOut("prototype=M=[]")
+tryItOut("o=prototype")
+tryItOut("while(p={p:<x/>}&0)_")
+tryItOut("undefined=__count__")
+tryItOut("return[,,]")

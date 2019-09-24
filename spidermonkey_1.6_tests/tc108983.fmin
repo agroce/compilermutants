@@ -1,0 +1,2 @@
+tryItOut("try{z}catch(_){this.__defineSetter__(\"\",/a/)}")
+tryItOut("return this")

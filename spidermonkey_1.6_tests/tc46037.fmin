@@ -1,0 +1,1 @@
+tryItOut("switch(undefined%=null){}return[,,,8].map(new Function)")

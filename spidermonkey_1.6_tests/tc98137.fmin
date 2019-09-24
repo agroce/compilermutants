@@ -1,0 +1,2 @@
+tryItOut("with(__proto__=#1=[#1#])c")
+tryItOut("return this;<y></y>")

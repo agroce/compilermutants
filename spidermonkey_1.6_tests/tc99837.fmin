@@ -1,0 +1,2 @@
+tryItOut("undefined=__proto__.__proto__")
+tryItOut("do return[1,,];while(<y></y>)")

@@ -1,0 +1,63 @@
+int printf (const char *, ...);
+static int a, q, t;
+short b, c;
+int d;
+char e, f, g;
+int h;
+int i;
+int j;
+char *k = &f, *r = &e, *t7 = &g;
+int l;
+int m;
+int n;
+int *o, *v = &q, *t4 = &t;
+int p;
+short *s, *t3 = &c;
+int u;
+int w;
+int x;
+int y;
+int z;
+int t1;
+int t2;
+int t6;
+int t8;
+int fn1 ();
+void fn2 ();
+static unsigned short
+fn3 (unsigned char p1)
+{
+    short *t5 = &b;
+    if (p1)
+    {
+        fn2 ();
+        *v = fn1 ();
+        *t4 = 0;
+        x = w;
+        if (u)
+            t2 = fn1 ();
+        *v = d = y;
+        fn1 () + fn1 ();
+        h = 0;
+        i = 0;
+    }
+    t1 = 0;
+    z = 8UL << p1;
+    g = *r = *t3 = t5 == (s = &b) | z | p;
+    return 0;
+}
+
+int
+main ()
+{
+    int *t9 = &a;
+    *t9 = 0;
+    t6 = *t7 = 0;
+    t8 = *t9;
+    m = 0;
+    n = fn3 (t8);
+    l = *k = j;
+    o = 0;
+    printf ("%d\n", c);
+    return 0;
+}

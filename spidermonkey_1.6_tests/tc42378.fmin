@@ -1,0 +1,4 @@
+tryItOut("r=___=L={}")
+tryItOut("switch(__=false){case[]:}while(_=0)r")
+tryItOut("while(undefined=__count__)p")
+tryItOut("return[,]")

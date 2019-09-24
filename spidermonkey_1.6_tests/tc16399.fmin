@@ -1,0 +1,3 @@
+tryItOut("with(<x></x>)__noSuchMethod__=[,]")
+tryItOut("undefined%=<x></x>")
+tryItOut("return __noSuchMethod__")

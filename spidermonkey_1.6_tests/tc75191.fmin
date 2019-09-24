@@ -1,0 +1,2 @@
+tryItOut("undefined=true,<y></y>")
+tryItOut("return[,,]")

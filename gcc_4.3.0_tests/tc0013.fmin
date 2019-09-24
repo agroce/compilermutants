@@ -1,0 +1,18 @@
+int printf (const char *, ...);
+short a;
+char ***b;
+static char ****c = &b, ****d = &b;
+short *e = &a;
+void
+fn1 (p1)
+{
+    *e = (c == d) < p1;
+}
+
+int
+main ()
+{
+    fn1 (6);
+    printf ("%d\n", a);
+    return 0;
+}

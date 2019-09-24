@@ -1,0 +1,19 @@
+int printf (const char *, ...);
+int a;
+char ***b;
+static char ****c = &b;
+long d;
+static long
+fn1 (long p1, int p2)
+{
+    return p1 - p2;
+}
+
+int
+main ()
+{
+    d = c != &b;
+    fn1 (d, 2) && (a = 1);
+    printf ("%d\n", a);
+    return 0;
+}

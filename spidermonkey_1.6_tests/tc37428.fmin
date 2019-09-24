@@ -1,0 +1,2 @@
+tryItOut("prototype=undefined=/x/")
+tryItOut("return[,]")

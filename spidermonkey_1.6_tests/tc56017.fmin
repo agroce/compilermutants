@@ -1,0 +1,2 @@
+tryItOut("__proto__=#1=[#1#]")
+tryItOut("(this);return this")

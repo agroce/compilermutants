@@ -1,0 +1,1 @@
+tryItOut("do __proto__=null;while(0)if(new Error(this))r")

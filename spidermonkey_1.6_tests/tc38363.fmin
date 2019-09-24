@@ -1,0 +1,2 @@
+tryItOut("switch(__defineSetter__(\"__iterator__\",Function)){case 4:}")
+tryItOut("switch(gc()){case 6:case __iterator__.t:}")

@@ -1,0 +1,2 @@
+tryItOut("constructor=[]")
+tryItOut("switch(p={},(p.z=/x/?constructor:<x/>)()){case c:}")

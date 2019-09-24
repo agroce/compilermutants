@@ -1,0 +1,24 @@
+int printf (const char *, ...);
+int a, b, e;
+const int *const c = &a;
+static const int *const *d = &c;
+int *f = &e;
+void fn1 ();
+void
+fn2 ()
+{
+    b = 1;
+    for (; b <= 0; b++)
+        fn1 ();
+}
+
+int
+main ()
+{
+    int *g = &a;
+    *g = 1;
+    fn2 ();
+    a = *f = **d;
+    printf ("%d\n", e);
+    return 0;
+}

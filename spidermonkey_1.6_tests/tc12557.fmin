@@ -1,0 +1,2 @@
+tryItOut("while(__defineSetter__(\"\",/x/)){}")
+tryItOut("with({_:__lookupSetter__})return this")

@@ -1,0 +1,2 @@
+tryItOut("while(__defineGetter__(\"prop\",[].slice))/a/")
+tryItOut("p={},(p.z=undefined?s:prop)()")

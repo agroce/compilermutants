@@ -1,0 +1,2 @@
+tryItOut("constructor=\"\"")
+tryItOut("p={},(p.z=constructor?/x/:[])()")

@@ -1,0 +1,2 @@
+tryItOut("with(__defineSetter__.call(this,{},/x/))[]")
+tryItOut("return this")

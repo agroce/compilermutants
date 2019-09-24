@@ -1,0 +1,4 @@
+tryItOut("while(prototype=this)*")
+tryItOut("undefined=prototype")
+tryItOut("__proto__=[1,,]")
+tryItOut("return[1,,]")

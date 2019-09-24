@@ -1,0 +1,4 @@
+tryItOut("__defineGetter__(\"prototype\",/x/)")
+tryItOut("__noSuchMethod__=prototype\rprop=__proto__")
+tryItOut("__proto__=__noSuchMethod__")
+tryItOut("prop.__proto__=this")

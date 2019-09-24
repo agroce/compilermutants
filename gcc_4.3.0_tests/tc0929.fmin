@@ -1,0 +1,12 @@
+int printf (const char *, ...);
+const int a = 49286, b;
+int *c = &b;
+short d;
+unsigned short e;
+int
+main ()
+{
+    *c = d >= (e = a);
+    printf ("%d\n", b);
+    return 0;
+}

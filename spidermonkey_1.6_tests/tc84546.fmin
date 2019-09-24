@@ -1,0 +1,2 @@
+tryItOut("with(undefined>>=#3={a:#3#}){}")
+tryItOut("with({})return[,]")

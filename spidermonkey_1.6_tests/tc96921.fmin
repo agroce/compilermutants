@@ -1,0 +1,3 @@
+tryItOut("prop={__noSuchMethod__:<x><y/></x>}")
+tryItOut("undefined=prop")
+tryItOut("return[,,]")

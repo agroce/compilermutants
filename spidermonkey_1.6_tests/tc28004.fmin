@@ -1,0 +1,2 @@
+tryItOut("if(__proto__.__defineGetter__(\"\",/a/)){}")
+tryItOut("return __proto__")

@@ -1,0 +1,3 @@
+tryItOut("__iterator__=<y>></y>")
+tryItOut("if(__iterator__.watch(\"\",function(){})){}return this")
+tryItOut("__iterator__=__proto__;with({})gc()")

@@ -1,0 +1,2 @@
+tryItOut("do{export _}while((undefined=<x><y/></x>)&0)")
+tryItOut("return[,]")

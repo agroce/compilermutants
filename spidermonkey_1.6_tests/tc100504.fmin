@@ -1,0 +1,6 @@
+tryItOut("__=_=rr=true")
+tryItOut("prop=n=__count__")
+tryItOut("r=prop")
+tryItOut("__iterator__=__count__")
+tryItOut("with({})undefined=__iterator__")
+tryItOut("return[,,]")

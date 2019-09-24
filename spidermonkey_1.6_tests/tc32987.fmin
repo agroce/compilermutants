@@ -1,0 +1,4 @@
+tryItOut("h=_=<x></x>")
+tryItOut("w=r=__count__")
+tryItOut("undefined=__count__")
+tryItOut("return[,,]")

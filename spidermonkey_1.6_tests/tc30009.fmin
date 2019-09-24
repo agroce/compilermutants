@@ -1,0 +1,2 @@
+tryItOut("prop=[]")
+tryItOut("p={},(p.z=prop?<x></x>:_)()")

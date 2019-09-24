@@ -1,0 +1,2 @@
+tryItOut("switch(delete e){case(undefined*=undefined):}")
+tryItOut("return[1,,]")

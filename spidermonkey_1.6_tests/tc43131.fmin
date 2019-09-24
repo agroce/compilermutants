@@ -1,0 +1,3 @@
+tryItOut("window=[]")
+tryItOut("undefined>>=window")
+tryItOut("return[,,]")

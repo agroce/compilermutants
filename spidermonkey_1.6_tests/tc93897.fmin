@@ -1,0 +1,1 @@
+tryItOut("if([])return{_ getter:/a/}")

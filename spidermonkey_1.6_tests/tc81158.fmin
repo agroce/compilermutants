@@ -1,0 +1,2 @@
+tryItOut("__iterator__=[]")
+tryItOut("if(p={},(p.z=__count__?__iterator__:\"\")())o")

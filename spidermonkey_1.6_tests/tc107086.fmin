@@ -1,0 +1,1 @@
+tryItOut("p={},(p._=__proto__?{}:c)()")

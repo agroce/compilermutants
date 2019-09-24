@@ -1,0 +1,2 @@
+tryItOut("undefined++")
+tryItOut("with(new new Function(\"gc()\"))return[,,]")

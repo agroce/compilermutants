@@ -1,0 +1,4 @@
+tryItOut("__proto__=constructor")
+tryItOut("constructor=prototype")
+tryItOut("constructor.r setter=/a/")
+tryItOut("with({p:__proto__})return __proto__")

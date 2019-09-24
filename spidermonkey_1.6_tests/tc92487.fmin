@@ -1,0 +1,2 @@
+tryItOut("if(__iterator__-=3){}if(undefined=__iterator__)<y></y>")
+tryItOut("return[,]")

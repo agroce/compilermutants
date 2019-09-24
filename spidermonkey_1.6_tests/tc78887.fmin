@@ -1,0 +1,2 @@
+tryItOut("undefined={__count__:__parent__}")
+tryItOut("return eval(\"[,,]\")")

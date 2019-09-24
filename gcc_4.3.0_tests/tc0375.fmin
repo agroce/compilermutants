@@ -1,0 +1,21 @@
+int printf (const char *, ...);
+struct
+{
+    int f6:1;
+}
+b;
+int a, c;
+void
+fn1 (p1)
+{
+    for (; c <= 0; c++)
+        a = b.f6 = p1;
+}
+
+int
+main ()
+{
+    fn1 (1);
+    printf ("%d\n", a);
+    return 0;
+}

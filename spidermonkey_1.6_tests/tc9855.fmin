@@ -1,0 +1,1 @@
+tryItOut("if(undefined^=this)if(w){}return[,]")

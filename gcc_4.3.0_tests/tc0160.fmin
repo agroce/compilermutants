@@ -1,0 +1,18 @@
+int printf (const char *, ...);
+char **a;
+int b;
+int *c = &b;
+int
+fn1 (p1)
+{
+    return p1;
+}
+
+int
+main ()
+{
+    char ***d = &a;
+    *c = (&a == d) < fn1 (5);
+    printf ("%d\n", b);
+    return 0;
+}

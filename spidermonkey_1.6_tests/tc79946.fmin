@@ -1,0 +1,4 @@
+tryItOut("undefined=4")
+tryItOut("constructor=[,]")
+tryItOut("__iterator__=constructor")
+tryItOut("return __iterator__")

@@ -1,0 +1,2 @@
+tryItOut("switch(undefined=\"\"==<x>></x>){}")
+tryItOut("return[1,,]")

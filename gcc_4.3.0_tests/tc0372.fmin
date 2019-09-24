@@ -1,0 +1,20 @@
+int printf (const char *, ...);
+int a;
+int *b, *c, *e;
+int **d = &c;
+int
+fn1 ()
+{
+    return 4;
+}
+
+int
+main ()
+{
+    e = &a;
+    *d = e;
+    int **f = &b, **g = &b;
+    *c = (g == f) < fn1 ();
+    printf ("%d\n", a);
+    return 0;
+}

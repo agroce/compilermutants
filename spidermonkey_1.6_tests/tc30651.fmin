@@ -1,0 +1,3 @@
+tryItOut("if(prop=[,])g")
+tryItOut("undefined=prop")
+tryItOut("return undefined")

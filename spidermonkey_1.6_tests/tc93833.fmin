@@ -1,0 +1,2 @@
+tryItOut("if(Error)if({_:[]})__proto__=null")
+tryItOut("with(Error(this))<y></y>")

@@ -1,0 +1,2 @@
+tryItOut("while(undefined+=0)w")
+tryItOut("with({_:__defineSetter__})return[1,,]")

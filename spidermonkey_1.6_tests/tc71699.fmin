@@ -1,0 +1,2 @@
+tryItOut("with(_ setter=/x/)f")
+tryItOut("return this")

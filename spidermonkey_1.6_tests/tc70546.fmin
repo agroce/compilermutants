@@ -1,0 +1,2 @@
+tryItOut("r setter=/a/")
+tryItOut("with({})return(this)")

@@ -1,0 +1,3 @@
+tryItOut("prototype=[,,]")
+tryItOut("undefined/=constructor")
+tryItOut("return prototype")

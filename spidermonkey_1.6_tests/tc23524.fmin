@@ -1,0 +1,2 @@
+tryItOut("__proto__.prop getter=hasOwnProperty.call;undefined=__proto__")
+tryItOut("with({})return[1,,]")

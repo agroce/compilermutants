@@ -1,0 +1,71 @@
+int printf (const char *, ...);
+int a, b, c, d, e, f, h, i, j, m, o, p, s, w, t2, t4, t5, t6, t7, t10, t11,
+    t12, t13;
+struct
+{
+    int f1;
+    char f4;
+}
+k[], l, r, x, y, *u = &l, *v, *t3 = &r;
+struct
+{
+    int f5;
+    int f6;
+    int f7;
+}
+n, q, t =
+{
+    0, 0, 1
+}
+
+, *t9 = &n;
+static int g;
+int *z = &w, *t1, *t8 = &d;
+int **t14;
+void fn2 ();
+static int *
+fn1 ()
+{
+    fn2 ();
+    for (; t4; t5++)
+        for (; t6; t6++);
+    for (; j <= 0; j++)
+    {
+        *t9 = t;
+        g = 0;
+        *t9 = *t9;
+        for (; m; p++)
+        {
+            s = 0;
+            t13 = b && c ? 0 : 1;
+            q.f6 && t7 < t10 <= o;
+            for (; e;)
+                *v = x;
+            *u = y;
+            f = t12;
+            for (; h; h--)
+                *t8 = t11;
+            *t3 = k[0];
+        }
+    }
+    return &i;
+}
+
+void
+fn2 ()
+{
+    a && 0 / 0;
+    t14 = 0;
+}
+
+int
+main ()
+{
+    fn2 ();
+    t1 = 0;
+    t2 = 0;
+    fn1 ();
+    *z;
+    printf ("%d\n", n.f7);
+    return 0;
+}

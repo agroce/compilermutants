@@ -1,0 +1,2 @@
+tryItOut("__defineGetter__(\"\",/a/)")
+tryItOut("with(__count__)return __parent__")

@@ -1,0 +1,3 @@
+tryItOut("with({_:__proto__})prop=constructor")
+tryItOut("__defineGetter__(\"\",/a/)")
+tryItOut("with({_:prop})return __parent__")

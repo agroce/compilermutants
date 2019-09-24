@@ -1,0 +1,3 @@
+tryItOut("/x/,__proto__=null")
+tryItOut("try{t}catch(_ if(function(){prop=__parent__})()){}")
+tryItOut("Error(prop)")

@@ -1,0 +1,4 @@
+tryItOut("prop=#1=[#1#]")
+tryItOut("__proto__=prop")
+tryItOut("<x></x>,prop=<x></x>")
+tryItOut("return this")

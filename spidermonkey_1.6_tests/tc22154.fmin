@@ -1,0 +1,3 @@
+tryItOut("__noSuchMethod__={a1:1}")
+tryItOut("undefined=__noSuchMethod__")
+tryItOut("if([])return[,,]")

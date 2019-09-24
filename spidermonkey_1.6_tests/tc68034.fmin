@@ -1,0 +1,2 @@
+tryItOut("do{}while((undefined=#1=[#1#])&0)")
+tryItOut("return[,,]")

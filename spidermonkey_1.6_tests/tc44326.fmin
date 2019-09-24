@@ -1,0 +1,2 @@
+tryItOut("do{}while((__proto__=#1=[#1#])&0)")
+tryItOut("with({prop:(uneval(this))}){(true);gc()}")

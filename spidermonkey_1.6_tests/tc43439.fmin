@@ -1,0 +1,4 @@
+tryItOut("__proto__=__parent__")
+tryItOut("with(__count__=[,,])[]")
+tryItOut("undefined=__count__")
+tryItOut("return undefined")

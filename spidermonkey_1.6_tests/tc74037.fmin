@@ -1,0 +1,2 @@
+tryItOut("undefined--")
+tryItOut("do return[,];while(0)")

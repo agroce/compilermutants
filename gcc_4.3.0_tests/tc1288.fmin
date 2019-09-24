@@ -1,0 +1,20 @@
+int printf (const char *, ...);
+long long a;
+char ****b;
+long long *c = &a;
+int d;
+char ***e;
+void
+fn1 (p1)
+{
+    d = ((b = &e) == &e) < p1;
+    *c = d;
+}
+
+int
+main ()
+{
+    fn1 (4);
+    printf ("%d\n", (int) a);
+    return 0;
+}

@@ -1,0 +1,2 @@
+tryItOut("if({}?undefined--:l){}")
+tryItOut("return[,];<x></x>")

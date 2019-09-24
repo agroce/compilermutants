@@ -1,0 +1,4 @@
+tryItOut("p={}")
+tryItOut("prototype=<x></x>;__=__iterator__=<bbb xmlns=\"null\"> </bbb>")
+tryItOut("___=_=o=prototype")
+tryItOut("return[,[,,__iterator__],__count__]")

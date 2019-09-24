@@ -1,0 +1,2 @@
+tryItOut("++undefined;if(<x/>)#3#")
+tryItOut("return[,]")

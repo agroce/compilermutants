@@ -1,0 +1,3 @@
+tryItOut("with({})prototype=__parent__")
+tryItOut("__defineSetter__(\"\",/a/)")
+tryItOut("return prototype")

@@ -1,0 +1,4 @@
+tryItOut("prototype=__parent__")
+tryItOut("__proto__=prototype")
+tryItOut("if(__iterator__=eval(\"__parent__\",\"\"))prototype=__iterator__")
+tryItOut("if(new Error(prototype)){}")

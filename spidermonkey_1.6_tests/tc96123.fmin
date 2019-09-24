@@ -1,0 +1,6 @@
+tryItOut("if(false){}(__=<y></y>)(p=<x></x>)")
+tryItOut("pp=<y></y>")
+tryItOut("o=c=__iterator__=__")
+tryItOut("_=__iterator__")
+tryItOut("undefined=__count__")
+tryItOut("return[,]")

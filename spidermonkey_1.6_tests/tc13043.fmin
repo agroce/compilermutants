@@ -1,0 +1,3 @@
+tryItOut("__defineGetter__(\"\",/a/)")
+tryItOut("__defineGetter__(\"prop\",function(){return this})")
+tryItOut("return prop")

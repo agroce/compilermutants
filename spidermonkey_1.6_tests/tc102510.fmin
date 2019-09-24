@@ -1,0 +1,1 @@
+tryItOut("with(p={},(p.z=Object(<x/>?this:_,<x/>))())[]")

@@ -1,0 +1,2 @@
+tryItOut("__proto__=__parent__")
+tryItOut("switch(constructor=2){}if(Error(constructor?[]:r,this))l")

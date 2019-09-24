@@ -1,0 +1,2 @@
+tryItOut("_ getter=/a/")
+tryItOut("with({})return this")

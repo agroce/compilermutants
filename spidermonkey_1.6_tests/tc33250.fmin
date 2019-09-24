@@ -1,0 +1,2 @@
+tryItOut("__iterator__=<x></x>")
+tryItOut("if(p={},(p.z=__iterator__?null:u)())p")

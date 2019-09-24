@@ -1,0 +1,1 @@
+tryItOut("do{}while((__proto__.p setter=/a/)&0)return __proto__")

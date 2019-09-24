@@ -1,0 +1,2 @@
+tryItOut("__defineGetter__(\"\",/a/)")
+tryItOut("with({p:__defineSetter__})return __parent__")

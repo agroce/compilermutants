@@ -1,0 +1,1 @@
+tryItOut("switch(__proto__=null){}if(Error(<x></x>,this))n")

@@ -1,0 +1,2 @@
+tryItOut("with(undefined-=__lookupGetter__)u")
+tryItOut("with({_:[]})return[,,]")

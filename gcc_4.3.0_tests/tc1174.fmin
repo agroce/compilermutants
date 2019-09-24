@@ -1,0 +1,20 @@
+int printf (const char *, ...);
+int a = 1, b;
+int *c = &a;
+short ***d;
+static short ****e = &d;
+int
+fn1 (p1)
+{
+    return p1;
+}
+
+int
+main ()
+{
+    b = (e == &d) < fn1 (11L);
+    if (b)
+        *c = 0;
+    printf ("%d\n", a);
+    return 0;
+}

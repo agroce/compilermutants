@@ -1,0 +1,32 @@
+int printf (const char *, ...);
+int a, d, e;
+struct S0
+{
+    int f0;
+    int f1;
+    int f2;
+}
+b, c;
+void
+fn1 (struct S0 p1)
+{
+    e = a && 0 / 0;
+}
+
+int
+main ()
+{
+    struct S0 f, g = { 1 };
+    for (;; d++)
+    {
+        fn1 (g);
+        b = g;
+        b = b;
+        fn1 (g);
+        break;
+    }
+    f = b;
+    c = f;
+    printf ("%d\n", c.f0);
+    return 0;
+}

@@ -1,0 +1,2 @@
+tryItOut("__proto__=null")
+tryItOut("if(new Error(this)){}")

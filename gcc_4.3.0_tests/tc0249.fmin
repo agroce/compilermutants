@@ -1,0 +1,35 @@
+int printf (const char *, ...);
+int a, c, e;
+struct
+{
+    int f3;
+}
+b, d;
+void
+fn1 (p1)
+{
+    int *f = &b.f3;
+    if (p1)
+    {
+        int *g = &d.f3;
+        f = g;
+        e = -a ^ a ? 0 : a;
+        *f = 1;
+    }
+    else
+        p1 = 0;
+    if (*f)
+    {
+        d.f3 = 0;
+        for (; c <= 0; c++)
+            &p1;
+    }
+}
+
+int
+main ()
+{
+    fn1 (1);
+    printf ("%d\n", c);
+    return 0;
+}

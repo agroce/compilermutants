@@ -1,0 +1,2 @@
+tryItOut("__proto__=__parent__")
+tryItOut("while(Error(this))_")

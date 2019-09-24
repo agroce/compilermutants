@@ -1,0 +1,3 @@
+tryItOut("prototype=__parent__")
+tryItOut("with({})undefined=prototype")
+tryItOut("return[1,,]")

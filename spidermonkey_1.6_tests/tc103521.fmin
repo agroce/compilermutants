@@ -1,0 +1,2 @@
+tryItOut("p setter=/a/")
+tryItOut("return this")

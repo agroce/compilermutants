@@ -1,0 +1,20 @@
+int printf (const char *, ...);
+char a;
+char *b = &a;
+short *c;
+int d;
+short e;
+int
+fn1 (int p1, int p2)
+{
+    return p2 || p1 && p2 ? p1 : 0 % 0;
+}
+
+int
+main ()
+{
+    d = fn1 (4L, 1);
+    *b = ((c = &e) == &e) < d;
+    printf ("%d\n", a);
+    return 0;
+}

@@ -1,0 +1,28 @@
+int printf (const char *, ...);
+union U1
+{
+    int f1;
+    int f2;
+}
+b =
+{
+    1
+};
+
+int a;
+void
+fn1 (p1)
+{
+}
+
+int
+main ()
+{
+    union U1 c = b;
+    c = c;
+    union U1 d = c;
+    a = d.f2;
+    fn1 (c.f1);
+    printf ("%d\n", a);
+    return 0;
+}

@@ -1,0 +1,2 @@
+tryItOut("prop getter=gc")
+tryItOut("try{z}catch(_ if function(){}()){}catch(__proto__ if function(){prop}()){}")

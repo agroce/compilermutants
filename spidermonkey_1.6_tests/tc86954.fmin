@@ -1,0 +1,2 @@
+tryItOut("with(__defineSetter__(\"\",/a/))[]")
+tryItOut("return __count__.__parent__")

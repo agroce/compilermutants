@@ -1,0 +1,2 @@
+tryItOut("while(__proto__.__defineGetter__(\"\",/x/)){}")
+tryItOut("return __proto__")

@@ -1,0 +1,1 @@
+tryItOut("switch(gc()){case 6:switch([]){}case 5:case 8:case undefined._=-0:}")

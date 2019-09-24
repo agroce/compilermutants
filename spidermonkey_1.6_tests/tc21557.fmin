@@ -1,0 +1,1 @@
+tryItOut("try{d}catch(p){undefined={a1:1}}return[,,]")

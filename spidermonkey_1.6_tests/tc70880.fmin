@@ -1,0 +1,4 @@
+tryItOut("prototype=this\rp=<x></x>")
+tryItOut("if(__iterator__=<x>></x>)while(__iterator__.watch(\"\",constructor)){}")
+tryItOut("with({})return(prototype)")
+tryItOut("if([])__iterator__=this;with({})gc()")

@@ -1,0 +1,2 @@
+tryItOut("do __iterator__=__proto__;while(0)with({})__proto__.__iterator__ getter=function(){}.apply")
+tryItOut("with(undefined=__iterator__)return[1,,]")

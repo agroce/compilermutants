@@ -1,0 +1,6 @@
+tryItOut("prototype=#1=[#1#]")
+tryItOut("prop=prototype")
+tryItOut("prototype=__proto__")
+tryItOut("__proto__=prop")
+tryItOut("while(prop=0)y")
+tryItOut("with({})return __parent__")

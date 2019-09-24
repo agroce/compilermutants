@@ -1,0 +1,36 @@
+int printf (const char *, ...);
+struct S1
+{
+    int f1;
+    int f6;
+    int f7;
+    int f8;
+    int f9;
+};
+int a, b;
+int *c = &a;
+void fn1 ();
+void
+fn2 ()
+{
+    struct S1 d = { 1, 0, 0, 1, 0 };
+    int *e = &d.f8, *g = &d.f1;
+    struct S1 *f = &d;
+    *f = d;
+    *c = *e;
+    if (*g);
+    else
+    {
+        b = 0;
+        for (; b != 1;);
+        fn1 (g);
+    }
+}
+
+int
+main ()
+{
+    fn2 ();
+    printf ("%d\n", a);
+    return 0;
+}

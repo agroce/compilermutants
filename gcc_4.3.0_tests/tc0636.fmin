@@ -1,0 +1,54 @@
+int printf (const char *, ...);
+int a, b, h, m, n, o, p, s, t, u, w, x, y, z, t1;
+int *c, *j, *q;
+char d, e;
+char *f = &e, *r;
+int g[1];
+int **i = &c, **k = &j;
+short l;
+int *v = &g[0];
+int
+fn1 ()
+{
+    return a && 0 / 0;
+}
+
+int fn2 ();
+int *fn3 ();
+int
+main ()
+{
+    int t2 = 3L;
+    short *t3 = &l;
+    *k = &w;
+    *v = t2 | t3 != &l;
+    **k |= fn1 ();
+    *k = &t2;
+    for (; d;)
+    {
+        n = 0;
+        for (; n <= 0;)
+        {
+            u = 0;
+            *r |= 0;
+            o = *r;
+        }
+        if (*q)
+            fn3 (*q);
+        p &= fn2 ();
+        t = fn2 ();
+        *i = fn3 ();
+        for (; h;)
+            m = fn2 ();
+        s = fn2 ();
+        *k = fn3 (*q);
+    }
+    *f = 0;
+    t1 = *f;
+    fn1 ();
+    for (; y < 1; y++)
+        for (; z < 1; z++)
+            b += g[x * y + z];
+    printf ("%x\n", b);
+    return 0;
+}

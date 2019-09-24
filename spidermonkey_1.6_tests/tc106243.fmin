@@ -1,0 +1,2 @@
+tryItOut("with(__proto__.watch(\"__count__\",function(){}))c")
+tryItOut("gc()(__count__=0)")

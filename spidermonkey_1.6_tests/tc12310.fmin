@@ -1,0 +1,1 @@
+tryItOut("try{o}catch(e if<x/>*<x/>){}catch(prototype){const prototype=<x></x>}")

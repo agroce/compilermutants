@@ -1,0 +1,2 @@
+tryItOut("p=e=__proto__")
+tryItOut("undefined=__count__;return[1,,]")

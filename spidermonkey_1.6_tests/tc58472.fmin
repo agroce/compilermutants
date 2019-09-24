@@ -1,0 +1,2 @@
+tryItOut("while(__proto__=null)s")
+tryItOut("new Error(this)")
